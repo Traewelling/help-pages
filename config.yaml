@@ -1,0 +1,244 @@
+---
+###############################################################################
+#                                                                             #
+#                            WEBSITE CONFIGURATION                            #
+#                                                                             #
+###############################################################################
+
+
+# --- base website settings ---
+
+baseURL: https://unicef.github.io/inventory-hugo-theme/
+title: UNICEF Inventory Theme
+theme: inventory
+languageCode: en-us
+enableEmoji: true
+enableGitInfo: true
+
+# Optional: Add Google Analytics tracking support.
+googleAnalytics: ""
+
+
+# --- security settings ---
+
+security:
+  exec:
+    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
+
+
+# --- markup settings ---
+
+markup:
+  asciidocExt:
+    preserveTOC: true
+    sectionNumbers: true
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: true
+    style: murphy
+    tabWidth: 4
+
+
+# --- privacy settings ---
+
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+  twitter:
+    enableDNT: true
+  vimeo:
+    enableDNT: true
+  youtube:
+    privacyEnhanced: true
+
+
+# --- custom settings ---
+
+params:
+  # "Edit this page" feature: git forge content base link
+  # [Example] editPrefix: https://github.com/username/repo-name/blob/main/content
+  editPrefix: https://github.com/unicef/inventory-hugo-theme/blob/main/exampleSite/content
+
+  # Shown on all pages. When logo is empty, it will show your site title, set above.
+  logo: ""
+
+  # OpenGraph data
+  description: UNICEF Inventory Theme. This Hugo-powered static site is documentation for and an example of the UNICEF Inventory Theme.
+  author: UNICEF Office of Innovation, and others
+  # Tip: Find a royalty-free image from unsplash.com for an OpenGraph image.
+  image: "images/banner.jpg"
+
+  # customize color
+  primary_color: "#1CABE2"
+  primary_color_light: "#1b66b1"
+  body_color: "#f2f4f6"
+  text_color: "#636363"
+  text_color_dark: "#374ea2"
+  text_title_color: "#ffffff"
+  white_color: "#ffffff"
+  light_color: "#f8f9fa"
+
+  # font family (choose from https://fonts.google.com/)
+  font_family: "Lato"
+
+  # contact form action (works with https://formspree.io)
+  contact_form_action: "#"
+
+  # related article number limit
+  article_count: 3
+
+  # brand and identity information
+  brand:
+    parent_org_name: UNICEF Global
+    parent_org_url: https://www.unicef.org/
+    parent_org_url_legal: https://www.unicef.org/legal
+  footer:
+    mainSite: https://www.unicef.org/innovation/
+    mainSiteName: UNICEF Office of Innovation
+
+
+# --- social platform settings ---
+# themify icon pack : https://themify.me/themify-icons
+
+  social:
+    - icon: ti-github
+      name: UNICEF Inventory Theme on GitHub
+      link: https://github.com/unicef/inventory-hugo-theme
+    - icon: ti-twitter-alt
+      name: "@UNICEFinnovate on Twitter"
+      link: https://twitter.com/UNICEFinnovate
+
+
+# --- taxonomy settings ---
+
+taxonomies:
+  alert: alerts
+  category: categories
+  downloadable: downloadBtn
+
+
+# --- multilingual settings ---
+
+Languages:
+############################# English #############################
+  en:
+    languageName: en
+    languageCode: en-us
+    weight: 1
+    home: Home
+    copyright: "Copyright &copy; 2020-2022 a Hugo theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/)"
+    params:
+      banner:
+        title: UNICEF Inventory Theme
+        subtitle: Documentation and an example site of the UNICEF Inventory Theme. Built for Hugo, a static site generator.
+        bg_image: images/banner.jpg
+        placeholder: Have a question? Search the site here.
+      cta:
+        enable: true
+        title: Formspree integration
+        content: Create a quick and easy contact form for site visitors to get in touch using built-in Formspree integration.
+        button:
+          enable: true
+          label: See the form
+          link: contact
+      footer:
+        description: UNICEF Inventory Theme documentation and example site. Powered by Hugo, a static site generator. An open source tool from the UNICEF Office of Innovation, Ventures Team.
+
+    # --- navigation menu ---
+    menu:
+      main:
+        - name: FAQ
+          weight: 10
+          url: faq
+        - name: Contact
+          weight: 20
+          url: contact
+
+        - name: pages
+          weight: 50
+          url: pages
+          hasChildren: true
+        # Sub-pages in this drop-down should correspond to categories created in /content/
+        - name: 1. About
+          parent: pages
+          weight: 10
+          url: about
+        - name: 2. Features
+          parent: pages
+          weight: 20
+          url: features
+        - name: 3. Installation
+          parent: pages
+          weight: 30
+          url: install
+        - name: 4. Contributing
+          parent: pages
+          weight: 50
+          url: contributing
+
+############################# español / Spanish #############################
+  es:
+    languageName: es
+    languageCode: es-mx
+    weight: 2
+    home: Página principal
+    copyright: "Copyright &copy; 2020-2022 una plantilla de [UNICEF Office of Innovation](https://www.unicef.org/innovation/)"
+    params:
+      banner:
+        title: Plantilla de UNICEF Inventory
+        subtitle: Documentación y un sitio de ejemplo de la plantilla de UNICEF Inventory. Construido para Hugo, un generador de sitios estáticos.
+        bg_image: images/banner.jpg
+        placeholder: ¿Ud. tiene una pregunta? Usted busca el sitio aquí.
+      cta:
+        enable: true
+        title: Integración de Formspree
+        content: Cree un formulario de contacto rápido y fácil para que los visitantes del sitio se comuniquen con la integración integrada de Formspree.
+        button:
+          enable: true
+          label: Ver el formulario
+          link: contact
+      footer:
+        description: Documentación de la plantilla de UNICEF Inventory y sitio de ejemplo. Desarrollado por Hugo, un generador de sitio estático. Una herramienta de open source de la Oficina de Innovación de UNICEF, Ventures Team.
+
+    # --- navigation menu ---
+    menu:
+      main:
+        - name: FAQ
+          weight: 10
+          url: faq
+        - name: Contactar
+          weight: 20
+          url: contact
+
+        - name: pages
+          weight: 50
+          url: pages
+          hasChildren: true
+        # Sub-pages in this drop-down should correspond to categories created in /content/
+        - name: 1. Sobre
+          parent: pages
+          weight: 10
+          url: about
+        - name: 2. Características
+          parent: pages
+          weight: 20
+          url: features
+        - name: 3. Instalación
+          parent: pages
+          weight: 30
+          url: install
+        - name: 4. Contribuyendo
+          parent: pages
+          weight: 50
+          url: contributing
