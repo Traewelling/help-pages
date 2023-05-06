@@ -85,7 +85,7 @@ params:
   primary_color_light: "#c63b42"
   body_color: "#f2f4f6"
   text_color: "#636363"
-  text_color_dark: "#272fc6"
+  text_color_dark: "#c63b42"
   text_title_color: "#ffffff"
   white_color: "#ffffff"
   light_color: "#f8f9fa"
