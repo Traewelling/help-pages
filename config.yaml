@@ -116,7 +116,7 @@ params:
   social:
     - icon: ti-github
       name: Träwelling Help on GitHub
-      link: https://github.com/traewelling/trwl-help
+      link: https://github.com/traewelling/help-pages
     - icon: ti-twitter-alt
       name: "@traewelling on Twitter"
       link: https://twitter.com/traewelling
