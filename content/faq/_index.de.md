@@ -53,22 +53,22 @@ Leider können wir da auch nicht viel dran tun, wenn dein Zug nicht dabei ist.
 Die Punkte setzen sich aus der Produktklasse und der Entfernung deiner Reise zusammen.
 
 | Produktklasse             | Basispunkte |
-|---------------------------|-------------| 
+|---------------------------|-------------|
 | Fernverkehr (ICE, ...)    | 10          |
 | Fernverkehr (IC, EC, ...) | 10          |
 | Regionalexpress           | 6           |
-| Regional 	                | 5           |
-| S-Bahn 	                | 3           |
-| Bus 	                    | 2           |
-| Fähre 	                | 3           |
+| Regional                  | 5           |
+| S-Bahn                    | 3           |
+| Bus                       | 2           |
+| Fähre                     | 3           |
 | U-Bahn                    | 2           |
-| Tram 	                    | 2           |
-| Taxi 	                    | 1           |
+| Tram                      | 2           |
+| Taxi                      | 1           |
 
 
-Die Entfernung wird auf die nächsten 10km gerundet und dann durch 10 geteilt. Anschließend werden die Basispunkte addiert.
-Eine ICE-Reise von 143km bringt dir also `10 + aufrunden(143/10) = 10 + 15 = 25` Punkte, für eine S-Bahn-Fahrt von 8 km gibt es `2 + aufrunden(8/10) = 2 + 1 = 3` Punkte.
-Wir möchten, dass Du möglichst zeitnah eincheckst, damit die Plattform immer einen aktuellen Stand Deiner Reisen hat. Darum gibt es die vollen Punkte nur, wenn Du während Deiner Reise oder 20min vor Live-Abfahrt (Plan-Abfahrt + Verspätung) eincheckst. Wer 1h vor oder nach dem Reisezeitraum eincheckt, bekommt immerhin noch 1/4 der Punkte. Wenn Du noch früher oder später in eine Verbindung eincheckst, bekommst Du die vollen Kilometer und Stunden gutgeschrieben, aber nur einen Mitleidspunkt.
+Die Entfernung wird auf die nächsten 10 km gerundet und dann durch 10 geteilt. Anschließend werden die Basispunkte addiert.
+Eine ICE-Reise von 143 km bringt dir also `10 + aufrunden(143/10) = 10 + 15 = 25` Punkte, für eine S-Bahn-Fahrt von 8 km gibt es `2 + aufrunden(8/10) = 2 + 1 = 3` Punkte.
+Wir möchten, dass du möglichst zeitnah eincheckst, damit die Plattform immer einen aktuellen Stand Deiner Reisen hat. Darum gibt es die vollen Punkte nur, wenn Du während Deiner Reise oder 20min vor Live-Abfahrt (Plan-Abfahrt + Verspätung) eincheckst. Wer 1h vor oder nach dem Reisezeitraum eincheckt, bekommt immerhin noch 1/4 der Punkte. Wenn Du noch früher oder später in eine Verbindung eincheckst, bekommst Du die vollen Kilometer und Stunden gutgeschrieben, aber nur einen Mitleidspunkt.
 
 {{<notice info>}}
 Wenn deine Verbindung verspätet ist solltest du darauf achten, vor der reellen Abfahrtszeit einzuchecken, da wir nach der reellen Abfahrt keine Echtzeitinformationen über die Fahrt mehr erhalten können.
