@@ -69,7 +69,7 @@ privacy:
 params:
   # "Edit this page" feature: git forge content base link
   # [Example] editPrefix: https://github.com/username/repo-name/blob/main/content
-  editPrefix: https://github.com/traewelling/trwl-help/blob/main/exampleSite/content
+  editPrefix: https://github.com/traewelling/help-pages/blob/main/content
 
   # Shown on all pages. When logo is empty, it will show your site title, set above.
   logo: ""
