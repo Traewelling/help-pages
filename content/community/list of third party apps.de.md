@@ -25,6 +25,6 @@ Unser Projekt lebt davon, quelloffen zu sein und wir leben den Open Source Gedan
 
 ### Apps
 
-| Projekt        | Plattform | Link(s)                                                                                                                | Status                    | Infos                                                                                                                    |
-|----------------|-----------|------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Träweldroid    | Android   | [https://traewelldroid.de/]() / [Google Play Store](https://play.google.com/store/apps/details?id=de.hbch.traewelling) | öffentlich                | Träwelldroid ist eine Android-App, welche das Einchecken und Interagieren mit Träwelling nativ unter Android ermöglicht. |
+| Projekt      | Plattform | Link(s)                                                                                                                | Status                    | Infos                                                                                                                    |
+|--------------|-----------|------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Träwelldroid | Android   | [https://traewelldroid.de/]() / [Google Play Store](https://play.google.com/store/apps/details?id=de.hbch.traewelling) | öffentlich                | Träwelldroid ist eine Android-App, welche das Einchecken und Interagieren mit Träwelling nativ unter Android ermöglicht. |

@@ -4,6 +4,7 @@ description:
 categories: "safety and security"
 tags: ["app", "mobile"]
 downloadBtn: false
+date: 2023-05-19
 
 ---
 
@@ -32,10 +33,15 @@ Nach und nach wird diese Funktion abgeschafft werden. Die Anmeldung mittels Auto
 
 
 ### Entfernen von Anwendungszugriffen
-Wenn du sichergehen möchtest, dass Drittanwendungen keinen zugriff mehr auf deine Daten haben, kannst du Den zugriff in deinen [Einstellungen](https://traewelling.de/settings) widerrufen.
+Wenn du sichergehen möchtest, dass Drittanwendungen keinen zugriff mehr auf deine Daten haben, kannst du den zugriff in deinen [Einstellungen](https://traewelling.de/settings) widerrufen.
 Klicke hierfür unter dem Punkt "API-Tokens" in der Zeile der zu entfernenden Anwendung auf den roten Button mit Mülleimersymbol.
 
 Da du Anwendungen auf mehreren Geräten installieren kannst, kann es sein, dass diese auch mehrfach in den Einstellungen aufgelistet sind.
 Eventuell musst du eine Anwendung mehrfach aus der Liste löschen.
 Sobald diese Anwendung nicht mehr aufgelistet ist, hat sie definitiv keinen Zugriff mehr auf deine Daten.
 ![api-revoke-token.png](api-revoke-token.png)
+
+{{< notice important >}}
+Bitte beachte, dass Anwendungen, die über Benutzername und Passwort authentifiziert werden, als "Träwelling Personal Access Client" aufgeführt werden.
+Du kannst Anwendungen, die diese Authentifizierungsmethode verwenden, nicht unterscheiden.
+{{< /notice >}}
