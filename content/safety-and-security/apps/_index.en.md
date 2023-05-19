@@ -12,11 +12,11 @@ Unfortunately, Träwelling itself does not currently offer any apps.
 The only official way to use Träwelling at the moment is through the website [https://traewelling.de]().
 All other sites or apps that allow you to interact with Träwelling are not official developments from us.
 
-## Drittanbieter-Apps
+## Third-party apps
 Träwelling offers a free [API](https://en.wikipedia.org/wiki/API) that allows third-party developers to communicate with the service.
 A list of all (known) projects can be found [here](/en/community/list-of-third-party-apps/).
 
-### Autorisierung
+### Authorization
 
 {{< notice important >}}
 Please note that if you use third-party apps, we no longer have any control over your data usage.
