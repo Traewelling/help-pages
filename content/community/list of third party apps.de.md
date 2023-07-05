@@ -1,7 +1,7 @@
 ---
 title: Liste von Drittanbieter-Projekten
 description:
-categories: ["community"]
+categories: [ "community" ]
 tags: [ "app", "mobile", "community" ]
 downloadBtn: false
 date: 2023-05-06
@@ -29,3 +29,9 @@ ebenfalls nur quelloffene Projekte zu verlinken.
 | Projekt      | Plattform | Link(s)                                                                                                                                         | Status     | Infos                                                                                                                    |
 |--------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------|
 | Träwelldroid | Android   | [https://traewelldroid.de/](https://traewelldroid.de/) / [Google Play Store](https://play.google.com/store/apps/details?id=de.hbch.traewelling) | öffentlich | Träwelldroid ist eine Android-App, welche das Einchecken und Interagieren mit Träwelling nativ unter Android ermöglicht. |
+
+### Skripte, Exporter und andere Tools
+
+| Projekt              | Link                                                                                                   | Status     | Infos                           |
+|----------------------|--------------------------------------------------------------------------------------------------------|------------|---------------------------------|
+| traewelling-exporter | [https://github.com/NyCodeGHG/traewelling-exporter](https://github.com/NyCodeGHG/traewelling-exporter) | öffentlich | Prometheus Exporter für Fahrten |

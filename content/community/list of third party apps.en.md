@@ -1,7 +1,7 @@
 ---
 title: List of third-party projects
 description:
-categories: ["community"]
+categories: [ "community" ]
 tags: [ "app", "mobile", "community" ]
 downloadBtn: false
 date: 2023-05-06
@@ -25,6 +25,13 @@ Therefore, we ask you to link only open source projects here.
 
 ### Apps
 
-| Projekt      | Platform | Link(s)                                                                                                                                         | Status     | Infos                                                                                                        |
-|--------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------|
-| Träwelldroid | Android  | [https://traewelldroid.de/](https://traewelldroid.de/) / [Google Play Store](https://play.google.com/store/apps/details?id=de.hbch.traewelling) | öffentlich | Träwelldroid is an Android app that allows you to check in and interact with Träwelling natively on Android. |
+| Project      | Platform | Link(s)                                                                                                                                         | Status | Infos                                                                                                        |
+|--------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------|
+| Träwelldroid | Android  | [https://traewelldroid.de/](https://traewelldroid.de/) / [Google Play Store](https://play.google.com/store/apps/details?id=de.hbch.traewelling) | public | Träwelldroid is an Android app that allows you to check in and interact with Träwelling natively on Android. |
+
+### Scripts, Exporters and other tools
+
+| Project              | Link                                                                                                   | Status | Infos                            |
+|----------------------|--------------------------------------------------------------------------------------------------------|--------|----------------------------------|
+| traewelling-exporter | [https://github.com/NyCodeGHG/traewelling-exporter](https://github.com/NyCodeGHG/traewelling-exporter) | public | Prometheus Exporter for journeys |
+
