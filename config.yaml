@@ -17,14 +17,14 @@ enableEmoji: true
 enableGitInfo: true
 
 # Optional: Add Google Analytics tracking support.
-googleAnalytics: ""
+googleAnalytics: "" # no. just no.
 
 
 # --- security settings ---
 
 security:
   exec:
-    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
+    allow: [ '^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$' ]
 
 
 # --- markup settings ---
@@ -110,8 +110,8 @@ params:
     mainSiteName: Träwelling
 
 
-# --- social platform settings ---
-# themify icon pack : https://themify.me/themify-icons
+  # --- social platform settings ---
+  # themify icon pack : https://themify.me/themify-icons
 
   social:
     - icon: ti-github
@@ -135,29 +135,18 @@ taxonomies:
 
 # --- multilingual settings ---
 Languages:
-############################# deutsch / German #############################
   de:
     languageName: de
-    languageCode: de-de 
+    languageCode: de-de
     weight: 1
-    home: Hauptseite 
+    home: Hauptseite
     copyright: "Copyright &copy; 2023  [Träwelling](https://traewelling.de/)"
     params:
       banner:
-        title:  Womit können wir dir helfen?
+        title: Womit können wir dir helfen?
         subtitle: Auf dieser Seite findest du diverse Hilfe-Artikel. Solltest du darüber hinaus Hilfe benötigen, kontaktiere uns gerne auf Mastodon oder per Mail.
         bg_image: images/banner.png
         placeholder: Du hast eine Frage? Dann durchsuche diese Webseite!
-#      cta:
-#        enable: true
-#        title: Integración de Formspree
-#        content: Cree un formulario de contacto rápido y fácil para que los visitantes del sitio se comuniquen con la integración integrada de Formspree.
-#        button:
-#          enable: true
-#          label: Ver el formulario
-#          link: contact
-      footer:
-        description: 
 
     # --- navigation menu ---
     menu:
@@ -165,32 +154,7 @@ Languages:
         - name: FAQ
           weight: 10
           url: faq
-#
-#        - name: Contactar
-#          weight: 20
-#          url: contact
-#        - name: pages
-#          weight: 50
-#          url: pages
-#          hasChildren: true
-#        # Sub-pages in this drop-down should correspond to categories created in /content/
-#        - name: 1. Sobre
-#          parent: pages
-#          weight: 10
-#          url: about
-#        - name: 2. Características
-#          parent: pages
-#          weight: 20
-#          url: features
-#        - name: 3. Instalación
-#          parent: pages
-#          weight: 30
-#          url: install
-#        - name: 4. Contribuyendo
-#          parent: pages
-#          weight: 50
-#          url: contributing
-############################# English #############################
+
   en:
     languageName: en
     languageCode: en-us
@@ -203,16 +167,6 @@ Languages:
         subtitle: On this page you'l find various help articles. If you have further questions, please contact us on Mastodon or via e mail.
         bg_image: images/banner.png
         placeholder: Have a question? Search the site here.
-#      cta:
-#        enable: true
-#        title: Formspree integration
-#        content: Create a quick and easy contact form for site visitors to get in touch using built-in Formspree integration.
-#        button:
-#          enable: true
-#          label: See the form
-#          link: contact
-      footer:
-        description: 
 
     # --- navigation menu ---
     menu:
@@ -220,30 +174,3 @@ Languages:
         - name: FAQ
           weight: 10
           url: faq
-#        - name: Contact
-#          weight: 20
-#          url: contact
-#
-#        - name: pages
-#          weight: 50
-#          url: pages
-#          hasChildren: true
-#        # Sub-pages in this drop-down should correspond to categories created in /content/
-#        - name: 1. About
-#          parent: pages
-#          weight: 10
-#          url: about
-#        - name: 2. Features
-#          parent: pages
-#          weight: 20
-#          url: features
-#        - name: 3. Installation
-#          parent: pages
-#          weight: 30
-#          url: install
-#        - name: 4. Contributing
-#          parent: pages
-#          weight: 50
-#          url: contributing
-
-
