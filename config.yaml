@@ -75,7 +75,7 @@ params:
   logo: ""
 
   # OpenGraph data
-  description: Träwelling Help. This page is to meant to provide 
+  description: Träwelling Help. This page is to meant to provide help for Träwelling users.
   author: Träwelling Team, and others
   # Tip: Find a royalty-free image from unsplash.com for an OpenGraph image.
   image: "images/banner.jpg"
