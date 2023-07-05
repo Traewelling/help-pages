@@ -1,7 +1,7 @@
 ---
 title: Liste von Drittanbieter-Projekten
 description:
-categories: "community"
+categories: ["community"]
 tags: [ "app", "mobile", "community" ]
 downloadBtn: false
 date: 2023-05-06
