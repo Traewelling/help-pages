@@ -1,5 +1,5 @@
 ---
-title: "🤳 Safety and Security"
+title: "🤳 Sicherheit und Schutz"
 type: docs
 weight: 30
 ---
