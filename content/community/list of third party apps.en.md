@@ -27,6 +27,7 @@ Therefore, we ask you to link only open source projects here.
 
 | Project      | Platform | Link(s)                                                                                                                                         | Status | Infos                                                                                                        |
 |--------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------|
+| TräwelCheckIn | iOS   | [https://twitter.com/TraewelCheckIn](https://twitter.com/TraewelCheckIn) | Private Beta | Träwel CheckIn is an iOS-App that allows you to check in and interact with Träwelling natively on iOS. |
 | Träwelldroid | Android  | [https://traewelldroid.de/](https://traewelldroid.de/) / [Google Play Store](https://play.google.com/store/apps/details?id=de.hbch.traewelling) | public | Träwelldroid is an Android app that allows you to check in and interact with Träwelling natively on Android. |
 
 ### Scripts, Exporters and other tools
