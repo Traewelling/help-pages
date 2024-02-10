@@ -32,6 +32,7 @@ ebenfalls nur quelloffene Projekte zu verlinken.
 
 ### Skripte, Exporter und andere Tools
 
-| Projekt              | Link                                                                                                   | Status     | Infos                           |
-|----------------------|--------------------------------------------------------------------------------------------------------|------------|---------------------------------|
-| traewelling-exporter | [https://github.com/NyCodeGHG/traewelling-exporter](https://github.com/NyCodeGHG/traewelling-exporter) | öffentlich | Prometheus Exporter für Fahrten |
+| Projekt                                  | Link                                                                                                                               | Infos                                        |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| traewelling-exporter                     | [https://github.com/NyCodeGHG/traewelling-exporter](https://github.com/NyCodeGHG/traewelling-exporter)                             | Prometheus Exporter für Fahrten              |
+| traewelling-telegram-notificationsPublic | [https://github.com/HerrLevin/traewelling-telegram-notifications](https://github.com/HerrLevin/traewelling-telegram-notifications) | No description, website, or topics provided. |
