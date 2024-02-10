@@ -32,7 +32,8 @@ ebenfalls nur quelloffene Projekte zu verlinken.
 
 ### Skripte, Exporter und andere Tools
 
-| Projekt                                  | Link                                                                                                                               | Infos                                        |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| traewelling-exporter                     | [https://github.com/NyCodeGHG/traewelling-exporter](https://github.com/NyCodeGHG/traewelling-exporter)                             | Prometheus Exporter für Fahrten              |
-| traewelling-telegram-notificationsPublic | [https://github.com/HerrLevin/traewelling-telegram-notifications](https://github.com/HerrLevin/traewelling-telegram-notifications) | No description, website, or topics provided. |
+| Projekt                                  | Link                                                                                                                               | Infos                                                   |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| traewelling-exporter                     | [https://github.com/NyCodeGHG/traewelling-exporter](https://github.com/NyCodeGHG/traewelling-exporter)                             | Prometheus Exporter für Fahrten                         |
+| traewelling-telegram-notificationsPublic | [https://github.com/HerrLevin/traewelling-telegram-notifications](https://github.com/HerrLevin/traewelling-telegram-notifications) | No description, website, or topics provided.            |
+| traewelling-dashboard-rss                | [https://github.com/AdriDevelopsThings/traewelling-dashboard-rss](https://github.com/AdriDevelopsThings/traewelling-dashboard-rss) | Erstelle einen RSS Feed aus deinem Träwelling Dashboard |
