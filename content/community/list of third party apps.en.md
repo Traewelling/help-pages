@@ -36,4 +36,4 @@ Therefore, we ask you to link only open source projects here.
 | traewelling-exporter                     | [https://github.com/NyCodeGHG/traewelling-exporter](https://github.com/NyCodeGHG/traewelling-exporter)                             | Prometheus Exporter for journeys                  |
 | traewelling-telegram-notificationsPublic | [https://github.com/HerrLevin/traewelling-telegram-notifications](https://github.com/HerrLevin/traewelling-telegram-notifications) | No description, website, or topics provided.      |
 | traewelling-dashboard-rss                | [https://github.com/AdriDevelopsThings/traewelling-dashboard-rss](https://github.com/AdriDevelopsThings/traewelling-dashboard-rss) | Create a RSS feed from your traewelling dashboard |
-
+| traewelling-widget                       | [https://github.com/tiuub/traewelling-widget](https://github.com/tiuub/traewelling-widget)                                         | An iOS widget for Träwelling                      |
