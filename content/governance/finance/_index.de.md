@@ -1,7 +1,7 @@
 ---
 title: "💰 Finanzen"
 downloadBtn: false
-date: 2023-07-05
+date: 2024-05-28
 ---
 
 Das [Träwelling Team](/governance/team) zahlt alle Ausgaben aus privater Tasche.
