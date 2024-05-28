@@ -16,7 +16,7 @@ Träwelling selbst läuft auf einem bei Netcup gehosteten Server in Nürnberg, D
 - 10 vCores
 - 12 GB RAM
 - Standort: Nürnberg, Deutschland
-- 480 GB SSA (RAID10)
+- 480 GB SSD (RAID10)
 
 Kosten: 13,59 € pro Monat
 
