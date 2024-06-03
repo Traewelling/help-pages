@@ -39,7 +39,7 @@ ToDo
 #### Manuelle Fahrten
 
 Manuelle Fahrten, **in welche für andere Personen sichtbar eingecheckt wird**, sind nur für öffentliche Verkehrsmittel
-erlaubt.
+gedacht.
 
 - Nicht erlaubt z.B. Auto, Fahrrad, Fußwege
 - Erlaubt: muss man glaube ich nicht extra aufführen
