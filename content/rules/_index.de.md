@@ -22,7 +22,7 @@ Sollten dennoch Maßnahmen notwendig sein, versuchen wir diese so wenig invasiv 
 Das bedeutet z.B., dass wir eher die Sichtbarkeit von Checkins auf privat setzen oder einen Statustext entfernen,
 als ihn komplett zu löschen.
 
-Die Sperrung oder Löschung eines Accounts ist die letzte Maßnahme, die wir vermeiden wollen.
+Die Sperrung oder Löschung eines Accounts ist die letztmögliche Maßnahme. Diese wollen wir so gut es geht vermeiden.
 
 ### Regeln
 
