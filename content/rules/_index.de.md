@@ -18,7 +18,7 @@ gewährleisten.
 [Wir](/governance/team) möchten so wenig wie möglich in die Community eingreifen.
 Bitte achtet darauf, dass die Plattform ordnungsgemäß genutzt und die Regeln eingehalten werden.
 
-Sollten dennoch Maßnahmen notwendig sein, versuchen wir diese so wenig eingriffsintensiv wie möglich zu gestalten.
+Sollten dennoch Maßnahmen notwendig sein, versuchen wir diese so wenig invasiv wie möglich zu gestalten.
 Das bedeutet z.B., dass wir eher die Sichtbarkeit von Checkins auf privat setzen oder einen Statustext entfernen,
 als ihn komplett zu löschen.
 
