@@ -42,7 +42,7 @@ Manuelle Fahrten, **in welche für andere Personen sichtbar eingecheckt wird**, 
 gedacht.
 
 - Nicht erwünscht sind z.B. Auto, Fahrrad, Fußwege
-- Erlaubt: muss man glaube ich nicht extra aufführen
+- Erlaubt: Grundsätzlich alles im Bereich ÖPV/ÜPNV/ÖPFV
 - Ausnahmen: z.B. Taxifahrten im Rahmen von Fahrgastrechten oder Gastfahrten
 
 #### Veranstaltungen
