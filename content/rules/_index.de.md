@@ -41,7 +41,7 @@ ToDo
 Manuelle Fahrten, **in welche für andere Personen sichtbar eingecheckt wird**, sind nur für öffentliche Verkehrsmittel
 gedacht.
 
-- Nicht erlaubt z.B. Auto, Fahrrad, Fußwege
+- Nicht erwünscht sind z.B. Auto, Fahrrad, Fußwege
 - Erlaubt: muss man glaube ich nicht extra aufführen
 - Ausnahmen: z.B. Taxifahrten im Rahmen von Fahrgastrechten oder Gastfahrten
 
