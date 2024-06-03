@@ -49,6 +49,7 @@ gedacht.
 
 In Veranstaltungen soll nur eingecheckt werden, wenn tatsächlich an der Veranstaltung teilgenommen wird.
 Dazu gehören z.B. An- und Abreise, Vor- und Nachbereitung sowie Fahrten während der Veranstaltung.
+Dies soll anderen Nutzenden einen leichteren Überblick verschaffen, wer sich auf der Veranstaltung aufhält.
 
 #### API Nutzung
 
