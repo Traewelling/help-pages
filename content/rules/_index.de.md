@@ -43,7 +43,7 @@ gedacht.
 
 - Nicht erwünscht sind z.B. Auto, Fahrrad, Fußwege
 - Erlaubt: Grundsätzlich alles im Bereich ÖPV/ÜPNV/ÖPFV
-- Ausnahmen: z.B. Taxifahrten im Rahmen von Fahrgastrechten oder Gastfahrten
+- Ausnahmen: z.B. Ruftaxi oder Taxifahrten im Rahmen von Fahrgastrechten bzw. Gastfahrten
 
 #### Veranstaltungen
 
