@@ -3,10 +3,6 @@ title: "📜 Community-Regeln" # Besseres Wort finden "Regeln" klingt so hart un
 type: docs
 ---
 
-DIESE SEITE IST EIN ENTWURF - BITTE ÄNDERUNGSVORSCHLÄGE IM PULL REQUEST EINREICHEN
-
--------------
-
 ### Warum Community-Regeln?
 
 Die Träwelling-Community ist mittlerweile so groß geworden, dass es notwendig ist, einige Grundregeln für die Nutzung
@@ -32,17 +28,13 @@ Ein respektvoller Umgang miteinander ist die Grundlage für ein funktionierendes
 Deshalb ist es wichtig, dass alle respektvoll miteinander umgehen.
 Das bedeutet, dass Beleidigungen, Diskriminierungen, Mobbing und jede Form von Hasskommentaren nicht toleriert werden.
 
-#### Reale Checkins
-
-ToDo
-
 #### Manuelle Fahrten
 
 Manuelle Fahrten, **in welche für andere Personen sichtbar eingecheckt wird**, sind nur für öffentliche Verkehrsmittel
 gedacht.
 
-- Nicht erwünscht sind z.B. Auto, Fahrrad, Fußwege
-- Erlaubt: Grundsätzlich alles im Bereich ÖPV/ÜPNV/ÖPFV
+- Nicht geduldet sind z.B. Auto, Fahrrad, Fußwege. (Hierbei werden Checkins nach Feststellung zeitnah ohne Vorankündigung gelöscht)
+- Erlaubt: Grundsätzlich alles im Bereich ÖV/ÖPV/ÖPNV/ÖPFV
 - Ausnahmen: z.B. Ruftaxi oder Taxifahrten im Rahmen von Fahrgastrechten bzw. Gastfahrten
 
 #### Veranstaltungen
