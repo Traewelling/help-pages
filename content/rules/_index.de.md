@@ -33,7 +33,7 @@ Das bedeutet, dass Beleidigungen, Diskriminierungen, Mobbing und jede Form von H
 Manuelle Fahrten, **in welche für andere Personen sichtbar eingecheckt wird**, sind nur für öffentliche Verkehrsmittel
 gedacht.
 
-- Nicht geduldet sind z.B. Auto, Fahrrad, Fußwege. (Hierbei werden Checkins nach Feststellung zeitnah ohne Vorankündigung gelöscht)
+- Nicht geduldet sind z.B. Auto, Fahrrad, Fußwege.
 - Erlaubt: Grundsätzlich alles im Bereich ÖV/ÖPV/ÖPNV/ÖPFV
 - Ausnahmen: z.B. Ruftaxi oder Taxifahrten im Rahmen von Fahrgastrechten bzw. Gastfahrten
 
