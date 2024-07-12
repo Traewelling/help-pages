@@ -1,29 +1,39 @@
 ---
-title: "F.A.Q."
+title: "❓ F.A.Q."
 description: "Häufig gestellte Fragen"
+type: docs
 draft: false
 ---
-{{< faq "Was ist Träwelling? " >}}
+| [🐛 Fehler melden](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=bug%2CTo+Do&template=bug_report.md)
+| [➕ Funktion wünschen](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
+| [❓ Zum Support](https://traewelling.de/support) 
+| 
+
+{{< faq "🔗 Was ist Träwelling? " >}}
 Träwelling ist ein kostenloser Check-in Service, mit dem du deinen Freunden mitteilen kannst, wo du gerade mit öffentlichen Verkehrsmitteln unterwegs bist und Fahrtenbuch führen kannst. Kurz gesagt: Man kann in Züge einchecken und bekommt dafür Punkte.
 {{</ faq >}}
-{{< faq "Wer entwickelt Träwelling?" >}}
+
+{{< faq "🧑‍💻 Wer entwickelt Träwelling?" >}}
 Träwelling ist ein Open-Source-Projekt. Seit 2013 entwickeln verschiedene Personen am Projekt.
 Teils nur Bugfixes, teils größere Änderungen.
 Auf [GitHub](https://github.com/Traewelling/traewelling/graphs/contributors) kannst du dir eine Liste von zum Code Beitragenden ansehen. 
 Zusätzlich haben ein paar Personen bei der Alpha-Version unterstützt.
 Diese findest du [hier](https://traewelling.de/humans.txt). 
 {{</ faq >}}
-{{< faq "Ich möchte auch an Träwelling mitentwickeln!" >}}
+
+{{< faq "🛠️ Ich möchte auch an Träwelling mitentwickeln!" >}}
 Träwelling ist ein Open Source Projekt und jeder kann mitentwickeln. 
 Du findest alle Informationen dazu auf unserer GitHub-Seite. 
 Wir freuen uns über jeden Beitrag - erstelle einfach einen PullRequest! 
 Du kannst entweder an eigenen Ideen arbeiten oder dir eine Aufgabe aus unseren Issues auf GitHub raussuchen. 
 Wenn du Fragen hast, kannst du dich gerne auf unserem Discord-Server an uns wenden: https://discord.gg/QypAnG2qAw
 {{</ faq >}}
-{{< faq "Woher kommt der Name?" >}}
+
+{{< faq "🤔 Woher kommt der Name?" >}}
 Der Name ist eine Anspielung auf das allseits bekannte "*Senk ju for träwelling wis Deutsche Bahn*", was man eigentlich in fast jedem Fernverkehrszug der Deutschen Bahn gehört haben sollte.
 {{</ faq >}}
-{{< faq "Was sind Veranstaltungen?" >}}
+
+{{< faq "🎉 Was sind Veranstaltungen?" >}}
 Träwelling bringt Menschen zusammen, die gemeinsam öffentliche Verkehrsmittel nutzen.
 Manchmal fahren sie sogar zu derselben Veranstaltung, ohne voneinander zu wissen!
 
@@ -34,8 +44,10 @@ Wenn du ein Event anlegen möchtest, beachte bitte, dass Veranstaltungen einen M
 Dazu gehören Events aus dem Eisenbahnwesen wie bspw. [die letzte Fahrt des Metropolitan](https://traewelling.de/statuses/event/letzte_fahrt_des_met), Events von Hackerspaces (z.B. die [GPN](https://traewelling.de/statuses/event/gpn20)), oder aus der LGBTQ-Szene wie die [Cologne Pride](https://traewelling.de/statuses/event/csd_koln_2022).
 
 Veranstaltungen sollen etwas Besonderes sein. Deswegen haben wir uns entschieden, kleine lokale Veranstaltungen wie Weihnachtsmärkte und Stadtfeste prinzipiell abzulehnen. Ausnahmen bestätigen hierbei die Regel.
+
+Weitere Informationen findest unter [Features > Veranstaltungen](/features/events).
 {{</ faq >}}
-{{< faq "Warum erhalte ich keine Bestätigungsmail?" >}}
+{{< faq "📭 Warum erhalte ich keine Bestätigungsmail?" >}}
  Bitte schaue als erstes nach, ob die E-Mail im Spamordner liegt. Wenn die E-Mail nicht im Spamordner ist, füge bitte 'gertrud@traewelling.de' zu deinen Kontakten hinzu und fordere die E-Mail erneut an. Sollte die E-Mail weiterhin nicht ankommen, kontaktiere uns bitte über unser Kontaktformular.
 
 
@@ -44,12 +56,12 @@ Bitte beachte, dass es in der Vergangenheit öfters zu Problemen bei Microsoft-A
 {{</ notice>}}
 {{</ faq >}}
 
-{{< faq "Warum wird mein Zug nicht aufgelistet? " >}}
+{{< faq "🚂 Warum wird mein Zug nicht aufgelistet? " >}}
 Wir verwenden eine Schnittstelle der Deutschen Bahn, bei der nicht alle Angebote direkt dargestellt werden.
 Leider können wir da auch nicht viel dran tun, wenn dein Zug nicht dabei ist.
 {{</ faq >}}
 
-{{< faq "Wie werden Punkte berechnet?" >}}
+{{< faq "📊 Wie werden Punkte berechnet?" >}}
 Die Punkte setzen sich aus der Produktklasse und der Entfernung deiner Reise zusammen.
 
 | Produktklasse             | Basispunkte |
