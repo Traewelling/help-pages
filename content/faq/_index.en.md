@@ -53,7 +53,10 @@ Please note that in the past there were often problems with Microsoft addresses 
 {{</ faq >}}
 
 {{< faq "🚂 Why isn't my train listed?" >}}
-We use an interface of the Deutsche Bahn, where not all offers are displayed directly. Unfortunately, we can't do much with it if your train is not there.
+We use an interface of the Deutsche Bahn, where not all offers are displayed directly.
+
+If you're missing a connection, you can create it manually.
+You can find more information about this in the [manual trips section](/features/manual-trips).
 {{</ faq >}}
 
 {{< faq "📊 How are points calculated?" >}}

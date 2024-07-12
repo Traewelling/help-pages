@@ -58,7 +58,9 @@ Bitte beachte, dass es in der Vergangenheit öfters zu Problemen bei Microsoft-A
 
 {{< faq "🚂 Warum wird mein Zug nicht aufgelistet? " >}}
 Wir verwenden eine Schnittstelle der Deutschen Bahn, bei der nicht alle Angebote direkt dargestellt werden.
-Leider können wir da auch nicht viel dran tun, wenn dein Zug nicht dabei ist.
+
+Wenn du eine Verbindung vermisst, kannst du sie manuell hinzufügen.
+Wie das geht, erfährst du unter [Features > Reise manuell hinzufügen](/features/manual-trips).
 {{</ faq >}}
 
 {{< faq "📊 Wie werden Punkte berechnet?" >}}
