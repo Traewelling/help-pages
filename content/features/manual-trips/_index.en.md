@@ -39,6 +39,7 @@ In the "Category" field you have to select the category of your means of transpo
 
 {{< figure src="filled-out.png" alt="Create manual trip" >}}
 
+## Info
 {{< notice important >}}
 Please only create trips here whose category is included in the selection field "Category".
 Manual trips in private motor vehicles, bicycles, on foot, etc. are not provided and will be deleted from time to time.
