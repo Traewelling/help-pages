@@ -27,6 +27,7 @@ security:
     allow: [ '^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$' ]
 
 
+
 # --- markup settings ---
 
 markup:
@@ -140,7 +141,7 @@ Languages:
     languageCode: de-de
     weight: 1
     home: Hauptseite
-    copyright: "Copyright &copy; 2023  [Träwelling](https://traewelling.de/)"
+    copyright: "Copyright &copy; 2024  [Träwelling](https://traewelling.de/)"
     params:
       banner:
         title: Womit können wir dir helfen?
@@ -160,7 +161,7 @@ Languages:
     languageCode: en-us
     weight: 2
     home: Home
-    copyright: "Copyright &copy; 2023 [Träwelling](https://Träwelling)"
+    copyright: "Copyright &copy; 2024 [Träwelling](https://Träwelling)"
     params:
       banner:
         title: How can we help you?
