@@ -22,7 +22,7 @@ You can find them [hier](https://traewelling.de/humans.txt).
 {{</ faq >}}
 
 {{< faq "🛠️ I would like to contribute to Träwelling! " >}}
-Träwelling is an open source project and everyone can contribute. You can find all the information about it on our GitHub page. We are happy about every contribution - simply create a PullRequest! You can either work on your own ideas or pick a task from our Issues on GitHub. If you have any questions, feel free to contact us on our discord server: https://discord.gg/QypAnG2qAw
+Träwelling is an open source project and everyone can contribute. You can find all the information about it on our GitHub page. We are happy about every contribution - simply create a PullRequest! You can either work on your own ideas or pick a task from our Issues on GitHub.
 {{</ faq >}}
 
 {{< faq "🤔 Where does the name come from?" >}}

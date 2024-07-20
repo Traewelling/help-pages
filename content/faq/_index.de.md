@@ -23,8 +23,7 @@ Diese findest du [hier](https://traewelling.de/humans.txt).
 Träwelling ist ein Open Source Projekt und jeder kann mitentwickeln. 
 Du findest alle Informationen dazu auf unserer GitHub-Seite. 
 Wir freuen uns über jeden Beitrag - erstelle einfach einen PullRequest! 
-Du kannst entweder an eigenen Ideen arbeiten oder dir eine Aufgabe aus unseren Issues auf GitHub raussuchen. 
-Wenn du Fragen hast, kannst du dich gerne auf unserem Discord-Server an uns wenden: https://discord.gg/QypAnG2qAw
+Du kannst entweder an eigenen Ideen arbeiten oder dir eine Aufgabe aus unseren Issues auf GitHub raussuchen.
 {{</ faq >}}
 
 {{< faq "🤔 Woher kommt der Name?" >}}
