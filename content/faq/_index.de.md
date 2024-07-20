@@ -6,7 +6,6 @@ draft: false
 ---
 | [🐛 Fehler melden](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=bug%2CTo+Do&template=bug_report.md)
 | [➕ Funktion wünschen](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
-| [❓ Zum Support](https://traewelling.de/support) 
 | 
 
 {{< faq "🔗 Was ist Träwelling? " >}}
