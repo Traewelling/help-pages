@@ -24,7 +24,7 @@ googleAnalytics: "" # no. just no.
 
 security:
   exec:
-    allow: [ '^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$' ]
+    allow: [ '^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$', '^git$' ]
 
 
 
