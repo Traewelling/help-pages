@@ -6,7 +6,6 @@ draft: false
 ---
 | [🐛 Fehler melden](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=bug%2CTo+Do&template=bug_report.md)
 | [➕ Funktion wünschen](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
-| 
 
 {{< faq "🔗 Was ist Träwelling? " >}}
 Träwelling ist ein kostenloser Check-in Service, mit dem du deinen Freunden mitteilen kannst, wo du gerade mit öffentlichen Verkehrsmitteln unterwegs bist und Fahrtenbuch führen kannst. Kurz gesagt: Man kann in Züge einchecken und bekommt dafür Punkte.

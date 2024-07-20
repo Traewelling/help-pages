@@ -6,7 +6,6 @@ draft: false
 ---
 | [🐛 Report bug](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=bug%2CTo+Do&template=bug_report.md)
 | [➕ Request feature](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
-| 
 
 {{< faq "🔗 What is Träwelling?" >}}
 Träwelling is a free check-in service that lets you tell your friends where you are and where you can log your public transit journeys.
