@@ -140,7 +140,7 @@ Languages:
     languageName: de
     languageCode: de-de
     weight: 1
-    home: Hauptseite
+    title: "Hilfe | Träwelling"
     copyright: "Copyright &copy; 2024  [Träwelling](https://traewelling.de/)"
     params:
       banner:
@@ -160,7 +160,7 @@ Languages:
     languageName: en
     languageCode: en-us
     weight: 2
-    home: Home
+    title: "Help | Träwelling"
     copyright: "Copyright &copy; 2024 [Träwelling](https://Träwelling)"
     params:
       banner:
