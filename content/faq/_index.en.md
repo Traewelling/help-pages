@@ -74,33 +74,5 @@ You can find more information about this in the [manual trips section](/features
 {{</ faq >}}
 
 {{< faq "📊 How are points calculated?" >}}
-The points consist of the product class and the distance of your journey.
-
-| product category      | Base points |
-|-----------------------|-------------|
-| Express (ICE, ...)    | 10          |
-| Express (IC, EC, ...) | 10          |
-| Regional Express      | 6           |
-| Local                 | 5           |
-| Suburban              | 3           |
-| Bus                   | 2           |
-| Ferry                 | 3           |
-| Subway                | 2           |
-| Tram                  | 2           |
-| Taxi                  | 1           |
-
-The distance is rounded to the nearest 10km and then divided by 10. Afterwards the base points are added.
-An ICE journey of 143 km thus earns you `10 + round up(143/10) = 10 + 15 = 25` points, for an S-Bahn journey of 8 km you
-get `2 + round up(8/10) = 2 + 1 = 3` points.
-We want you to check in as soon as possible so that the platform always has an up-to-date status of your journeys.
-Therefore, you will only receive full points if you check in during your journey or 20min before live departure (
-scheduled departure + delay).
-If you check in 1h before or after the travel period, you can still get 1/4 of the points.
-If you check in earlier or later on a connection, you will receive the full kilometres and hours, but only one pity
-point.
-
-{{<notice info>}}
-If your connection is delayed you should make sure to check in before the real departure time, as we cannot get
-real-time information about the trip after the real departure time.
-{{</ notice>}}
+The topic of points is very complex and we have created a [separate page](/en/features/points) for it.
 {{</ faq >}}
