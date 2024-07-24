@@ -7,13 +7,6 @@ Wir wissen, dass die Gestaltung eines einprägsamen Markenauftritts eine Wissens
 wir alles daran gesetzt, ein Corporate Design zu entwickeln, das jeden Designer vor Neid erblassen lässt.
 Und hier ist das Geheimnis:
 
-#### Das Träwelling-Logo
-
-| Image                                                                                            | Description                           |
-|--------------------------------------------------------------------------------------------------|---------------------------------------|
-| <img src="icon-vector-bg.svg" alt="Träwelling Icon Vector" style="max-height: 150px;"/>          | Logo (vector) mit rotem Hintergrund   |
-| <img src="icon-vector-transparent.svg" alt="Träwelling Icon Vector" style="max-height: 150px;"/> | Weißes Logo (vector) ohne Hintergrund |
-
 #### Die Farbe von Träwelling
 
 Farben sind wichtig, und wir haben uns für eine Farbe entschieden, die alles ausdrückt, was Träwelling darstellt.
@@ -26,3 +19,10 @@ Außer bei Reisen, da ist mehr natürlich immer besser.
 
 Träwelling-Rot <span style="color: #C72730">#C72730</span>
 <small>angelehnt an Verkehrsrot</small>
+
+#### Das Träwelling-Logo
+
+| Image                                                                                            | Description                           |
+|--------------------------------------------------------------------------------------------------|---------------------------------------|
+| <img src="icon-vector-bg.svg" alt="Träwelling Icon Vector" style="max-height: 150px;"/>          | Logo (vector) mit rotem Hintergrund   |
+| <img src="icon-vector-transparent.svg" alt="Träwelling Icon Vector" style="max-height: 150px;"/> | Weißes Logo (vector) ohne Hintergrund |
