@@ -27,3 +27,7 @@ Stadtbahngleise und den Übergangspunkt von Eisenbahn- zu Stadtbahnstrecke in Le
 Das führt zu einer entsprechend langen, wilden Streckenführung.
 
 <img src="error-hannover-hbf-kwa.png">
+<small>
+    &copy; OpenStreetMap contributors, <a href="https://www.openstreetmap.org/copyright">CC-BY-SA</a>,
+    &copy; <a href="https://brouter.de/">BRouter</a>
+</small>
