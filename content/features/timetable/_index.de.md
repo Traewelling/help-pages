@@ -19,7 +19,8 @@ dem [EFZ](https://de.wikipedia.org/wiki/Europ%C3%A4isches_Fahrplanzentrum) bekan
 Um mehr Verbindungen und Länder abzudecken, möchten wir gerne auf mehrere Datenquellen zugreifen, jedoch fehlt uns
 hierfür die Kapazität, um das zu entwickeln.
 
-Denkbar wäre auch die Nutzung von Daten aus [OpenStreetMap](https://www.openstreetmap.org/) und
-[Wikidata](https://www.wikidata.org/wiki/Q688541) für detailliertere Informationen zu Haltestellen und Routen.
+Neben der Anbindung weiteren HAFAS Systemen anderer Länder und diversen deutschen EFA- und TRIAS-Systemen wäre auch die
+Nutzung von Daten aus [OpenStreetMap](https://www.openstreetmap.org/) und
+[Wikidata](https://www.wikidata.org/wiki/Q688541) für detailliertere Informationen zu Haltestellen und Routen denkbar.
 
 Wenn du uns dabei helfen möchtest, freuen wir uns über deine Unterstützung.
