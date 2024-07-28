@@ -7,6 +7,12 @@ Wir übernehmen die Kartendaten von den [Fahrplandaten](/features/timetable), di
 Diese sind häufig leider nicht so genau, wie wir es gerne hätten, daher kann es vorkommen, dass die Karte nicht immer
 korrekt ist und zum Beispiel eine falsche Streckenführung anzeigt.
 
+#### Warum ist die Karte im Ausland (außerhalb Deutschlands) ungenau?
+
+Das liegt schlicht und einfach daran, dass in den Daten der DB nur Routen für Strecken in Deutschland hinterlegt sind.
+Im Ausland verläuft die Fahrt nur von Station zu Station.
+Das versuchen wir mit Hilfe von [BRouter](https://brouter.de/brouter-web/) zu verbessern.
+
 #### BRouter und die weiteren Probleme...
 
 Nach einem Checkin versuchen wir die Karte mit Hilfe
