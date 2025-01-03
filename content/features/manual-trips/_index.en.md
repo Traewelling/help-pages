@@ -39,6 +39,21 @@ In the "Category" field you have to select the category of your means of transpo
 
 {{< figure src="filled-out.png" alt="Create manual trip" >}}
 
+## Neue Stationen hinzufügen
+
+The stop search only shows stops that are either in our database or known in Deutsche Bahn's HAFAS.
+This is a particular problem for journeys abroad, as many stations are not known there.
+You can therefore also import new stations from Wikidata.
+Simply search for the station in Wikidata and copy the ID into the search field.
+
+{{< notice info >}}
+The import feature is not yet ready. Not all types of stations can be imported yet.
+If nothing happens, the station is not compatible.
+If you think that's wrong, please write in the GitHub repo or add the category yourself via a pull request.
+{{</ notice >}}
+
+{{< figure src="form-wikidata.png" alt="Import station from Wikidata" >}}
+
 ## Info
 {{< notice important >}}
 Please only create trips here whose category is included in the selection field "Category".
