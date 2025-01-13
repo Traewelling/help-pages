@@ -1,15 +1,154 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>False on Help | Träwelling</title><link>https://help.traewelling.de/en/downloadbtn/false/</link><description>Recent content in False on Help | Träwelling</description><generator>Hugo</generator><language>en-us</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://Träwelling)</copyright><lastBuildDate>Sat, 13 Jul 2024 19:34:04 +0200</lastBuildDate><atom:link href="https://help.traewelling.de/en/downloadbtn/false/index.xml" rel="self" type="application/rss+xml"/><item><title>Create trip manually</title><link>https://help.traewelling.de/en/features/manual-trips/</link><pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/features/manual-trips/</guid><description>Manual trips are currently in an early beta stage. Errors and data loss may occur. The feature will be improved and expanded in the future.
-Träwelling mainly uses timetable data from Germany. It may happen that not all connections or trains are available in the database. Especially in countries outside of Germany, there may be gaps. Therefore, there is the possibility to create a trip manually.
-To use manual trips, you have to enable Experimental Features in the settings.</description></item><item><title>💰 Finance</title><link>https://help.traewelling.de/en/governance/finance/</link><pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/governance/finance/</guid><description>The Träwelling Team pays all expenses out of private pocket. We do not accept donations and have no income.
-TL;DR: We pay about 16,56 € per month to run Träwelling.
-Träwelling itself runs on a server hosted by Netcup in Nuremberg, Germany.
-Server 10 vCores 12 GB RAM Location: Nuremberg, Germany 480 GB SSD (RAID10) Costs: 13,59 € per month
-Monitoring Our Grafana dashboard runs on a private server that is “already” used for Grafana.</description></item><item><title>Events</title><link>https://help.traewelling.de/en/features/events/</link><pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/features/events/</guid><description>When you check in to public transport journeys, you can also check in to events if, for example, you are on your way to or from them. On traewelling.de/events you can find a list of events that are listed with us. If there is an event missing that you would like to check in to, you can also submit a suggestion on the page.
-Criteria for events Since we can&amp;rsquo;t and don&amp;rsquo;t want to accept every festival, demonstration, fair or whatever, events should meet a few criteria in order for us to list them on Träwelling.</description></item><item><title>👥 Team</title><link>https://help.traewelling.de/en/governance/team/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/governance/team/</guid><description> HerrLevin_ MrKrisKrisu confuzd_ Initiator, Development, Support Development, Support Development, Support Mastodon Mastodon Mastodon</description></item><item><title>📱 Apps</title><link>https://help.traewelling.de/en/safety-and-security/apps/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/safety-and-security/apps/</guid><description>Unfortunately, Träwelling itself does not currently offer any apps. The only official way to use Träwelling at the moment is through the website traewelling.de. All other sites or apps that allow you to interact with Träwelling are not official developments from us.
-Third-party apps Träwelling offers a free API that allows third-party developers to communicate with the service. A list of all (known) projects can be found here.
-Authorization Please note that if you use third-party apps, we no longer have any control over your data usage.</description></item><item><title>🩹 Sticker</title><link>https://help.traewelling.de/en/community/sticker/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/community/sticker/</guid><description>Unfortunately we currently no longer have any stickers in stock. :c
-We have printed stickers for the community. As long as the stock lasts, we can send you some by mail.
-Please send us an e-mail to sticker@traewelling.de with your address and a digital a digital stamp for a standard letter. We finance Träwelling from private pockets and therefore unfortunately cannot buy stamps for you.
-You can buy a digital stamp in the Deutsche Post / DHL app, for example.</description></item><item><title>List of third-party projects</title><link>https://help.traewelling.de/en/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/community/list-of-third-party-apps/</guid><description>Third-party apps Träwelling offers a free API that allows third-party developers to communicate with the service. To provide a better overview of what apps are currently available and what you can do with them, this page was created!
-Our project lives from being open source, and we live the open source idea. Therefore, we ask you to link only open source projects here.
-Websites Project Link Status Infos Travelynx http://travelynx.de/ public Travelynx is a separate, independent check-in service for trains in the Deutsche Bahn network.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>False on Help | Träwelling</title><link>https://help.traewelling.de/en/downloadbtn/false/</link><description>Recent content in False on Help | Träwelling</description><generator>Hugo</generator><language>en-us</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://Träwelling)</copyright><lastBuildDate>Fri, 03 Jan 2025 14:28:54 +0100</lastBuildDate><atom:link href="https://help.traewelling.de/en/downloadbtn/false/index.xml" rel="self" type="application/rss+xml"/><item><title>Create trip manually</title><link>https://help.traewelling.de/en/features/manual-trips/</link><pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/features/manual-trips/</guid><description>&lt;div class="notices important" >&lt;p>Manual trips are currently in an early beta stage. Errors and data loss may occur.
+The feature will be improved and expanded in the future.&lt;/p>&lt;/div>
+&lt;p>Träwelling mainly uses timetable data from Germany. It may happen that not all connections or trains are available in the database.
+Especially in countries outside of Germany, there may be gaps.
+Therefore, there is the possibility to create a trip manually.&lt;/p>
+
+
+&lt;div class="notices info" >&lt;p>To use manual trips, you have to enable Experimental Features in the settings.&lt;/p></description></item><item><title>💰 Finance</title><link>https://help.traewelling.de/en/governance/finance/</link><pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/governance/finance/</guid><description>&lt;p>The &lt;a href="https://help.traewelling.de/en/governance/team/">Träwelling Team&lt;/a> pays all expenses out of private pocket.
+We do not accept donations and have no income.&lt;/p>
+&lt;p>TL;DR: We pay about 16,56 € per month to run Träwelling.&lt;/p>
+&lt;p>Träwelling itself runs on a server hosted by Netcup in Nuremberg, Germany.&lt;/p>
+&lt;h3 id="server">Server&lt;/h3>
+&lt;ul>
+&lt;li>10 vCores&lt;/li>
+&lt;li>12 GB RAM&lt;/li>
+&lt;li>Location: Nuremberg, Germany&lt;/li>
+&lt;li>480 GB SSD (RAID10)&lt;/li>
+&lt;/ul>
+&lt;p>Costs: 13,59 € per month&lt;/p>
+&lt;h3 id="monitoring">Monitoring&lt;/h3>
+&lt;p>Our Grafana dashboard runs on a private server that is “already” used for Grafana.&lt;/p></description></item><item><title>Events</title><link>https://help.traewelling.de/en/features/events/</link><pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/features/events/</guid><description>&lt;p>When you check in to public transport journeys, you can also check in to events if, for example, you are on your way to or from them.
+On &lt;a href="https://traewelling.de/events">traewelling.de/events&lt;/a> you can find a list of events that are listed with us.
+If there is an event missing that you would like to check in to, you can also submit a suggestion on the page.&lt;/p>
+&lt;h3 id="criteria-for-events">Criteria for events&lt;/h3>
+&lt;p>Since we can&amp;rsquo;t and don&amp;rsquo;t want to accept every festival, demonstration, fair or whatever, events should meet a few criteria in order for us to list them on Träwelling.
+These are not 100% binding.
+The &lt;a href="https://help.traewelling.de/en/governance/team/">Träwelling Team&lt;/a> reserves the right to use their own discretion to decide whether to accept or reject events.
+However, there are a few pro and con criteria that influence the decision.&lt;/p></description></item><item><title>👥 Team</title><link>https://help.traewelling.de/en/governance/team/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/governance/team/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">HerrLevin_&lt;/th>
+ &lt;th style="text-align: center">MrKrisKrisu&lt;/th>
+ &lt;th style="text-align: center">confuzd_&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="HerrLevin_.jpg" alt="HerrLevin_" style="max-height: 150px;"/>&lt;/td>
+ &lt;td style="text-align: center">&lt;img src="MrKrisKrisu.png" alt="MrKrisKrisu" style="max-height: 150px;"/>&lt;/td>
+ &lt;td style="text-align: center">&lt;img src="confuzd.jpg" alt="confuzd" style="max-height: 150px;"/>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">Initiator, Development, Support&lt;/td>
+ &lt;td style="text-align: center">Development, Support&lt;/td>
+ &lt;td style="text-align: center">Development, Support&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;a href="https://queer.party/@HerrLevin_">Mastodon&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://chaos.social/@MrKrisKrisu">Mastodon&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://chaos.social/@jannik">Mastodon&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>📱 Apps</title><link>https://help.traewelling.de/en/safety-and-security/apps/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/safety-and-security/apps/</guid><description>&lt;p>Unfortunately, Träwelling itself does not currently offer any apps.
+The only official way to use Träwelling at the moment is through the website &lt;a href="https://traewelling.de">traewelling.de&lt;/a>.
+All other sites or apps that allow you to interact with Träwelling are not official developments from us.&lt;/p>
+&lt;h2 id="third-party-apps">Third-party apps&lt;/h2>
+&lt;p>Träwelling offers a free &lt;a href="https://en.wikipedia.org/wiki/API">API&lt;/a> that allows third-party developers to communicate with
+the service.
+A list of all (known) projects can be found &lt;a href="https://help.traewelling.de/en/community/list-of-third-party-apps/">here&lt;/a>.&lt;/p>
+&lt;h3 id="authorization">Authorization&lt;/h3>
+
+
+&lt;div class="notices important" >&lt;p>Please note that if you use third-party apps, we no longer have any control over your data usage.
+If you delete your account with us, the data may continue to exist with third-party providers without us being able to
+change anything.
+Please think carefully about which apps you want to give access to your data!&lt;/p></description></item><item><title>🩹 Sticker</title><link>https://help.traewelling.de/en/community/sticker/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/community/sticker/</guid><description>&lt;p>Unfortunately we currently no longer have any stickers in stock. :c&lt;/p>
+&lt;p>&lt;del>We have printed stickers for the community.
+As long as the stock lasts, we can send you some by mail.&lt;/del>&lt;/p>
+&lt;p>&lt;del>Please send us an e-mail to &lt;a href="mailto:sticker@traewelling.de">sticker@traewelling.de&lt;/a> with your address and a digital a digital stamp for a standard letter.
+&lt;a href="https://help.traewelling.de/en/governance/finance/">We finance Träwelling from private pockets&lt;/a> and therefore unfortunately cannot buy stamps for you.&lt;/del>&lt;/p>
+&lt;p>&lt;del>You can buy a digital stamp in the Deutsche Post / DHL app, for example.
+It starts with &amp;ldquo;#PORTO&amp;rdquo; followed by a code.&lt;/del>&lt;/p></description></item><item><title>List of third-party projects</title><link>https://help.traewelling.de/en/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/community/list-of-third-party-apps/</guid><description>&lt;h2 id="third-party-apps">Third-party apps&lt;/h2>
+&lt;p>Träwelling offers a free API that allows third-party developers to communicate with the service.
+To provide a better overview of what apps are currently available and what you can do with them, this page was created!&lt;/p>
+&lt;p>Our project lives from being open source, and we live the open source idea.
+Therefore, we ask you to link only open source projects here.&lt;/p>
+&lt;h3 id="websites">Websites&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Project&lt;/th>
+ &lt;th>Link&lt;/th>
+ &lt;th>Status&lt;/th>
+ &lt;th>Infos&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Travelynx&lt;/td>
+ &lt;td>&lt;a href="http://travelynx.de/">http://travelynx.de/&lt;/a>&lt;/td>
+ &lt;td>public&lt;/td>
+ &lt;td>Travelynx is a separate, independent check-in service for trains in the Deutsche Bahn network. It offers synchronization to and from Träwelling.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aboard&lt;/td>
+ &lt;td>&lt;a href="https://github.com/sunrisesdev/aboard">https://github.com/sunrisesdev/aboard&lt;/a>&lt;/td>
+ &lt;td>public&lt;/td>
+ &lt;td>Aboard is an alternative web client for Träwelling, which focuses on mobile operation.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="apps">Apps&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Project&lt;/th>
+ &lt;th>Platform&lt;/th>
+ &lt;th>Link(s)&lt;/th>
+ &lt;th>Status&lt;/th>
+ &lt;th>Infos&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Träwelldroid&lt;/td>
+ &lt;td>Android&lt;/td>
+ &lt;td>&lt;a href="https://traewelldroid.de/">https://traewelldroid.de/&lt;/a> / &lt;a href="https://play.google.com/store/apps/details?id=de.hbch.traewelling">Google Play Store&lt;/a>&lt;/td>
+ &lt;td>public&lt;/td>
+ &lt;td>Träwelldroid is an Android app that allows you to check in and interact with Träwelling natively on Android.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="scripts-exporters-and-other-tools">Scripts, Exporters and other tools&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Project&lt;/th>
+ &lt;th>Link&lt;/th>
+ &lt;th>Infos&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>traewelling-exporter&lt;/td>
+ &lt;td>&lt;a href="https://github.com/NyCodeGHG/traewelling-exporter">https://github.com/NyCodeGHG/traewelling-exporter&lt;/a>&lt;/td>
+ &lt;td>Prometheus Exporter for journeys&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>traewelling-telegram-notificationsPublic&lt;/td>
+ &lt;td>&lt;a href="https://github.com/HerrLevin/traewelling-telegram-notifications">https://github.com/HerrLevin/traewelling-telegram-notifications&lt;/a>&lt;/td>
+ &lt;td>No description, website, or topics provided.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>traewelling-dashboard-rss&lt;/td>
+ &lt;td>&lt;a href="https://github.com/AdriDevelopsThings/traewelling-dashboard-rss">https://github.com/AdriDevelopsThings/traewelling-dashboard-rss&lt;/a>&lt;/td>
+ &lt;td>Create a RSS feed from your traewelling dashboard&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>traewelling-widget&lt;/td>
+ &lt;td>&lt;a href="https://github.com/tiuub/traewelling-widget">https://github.com/tiuub/traewelling-widget&lt;/a>&lt;/td>
+ &lt;td>An iOS widget for Träwelling&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Safety and Security on Hilfe | Träwelling</title><link>https://help.traewelling.de/categories/safety-and-security/</link><description>Recent content in Safety and Security on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><lastBuildDate>Wed, 24 Jul 2024 13:23:27 +0200</lastBuildDate><atom:link href="https://help.traewelling.de/categories/safety-and-security/index.xml" rel="self" type="application/rss+xml"/><item><title>📱 Apps</title><link>https://help.traewelling.de/safety-and-security/apps/</link><pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/safety-and-security/apps/</guid><description>Träwelling selbst bietet derzeit leider keine Apps an. Die einzige offizielle Möglichkeit, Träwelling zu nutzen besteht derzeit nur über die Webseite traewelling.de. Alle weiteren Seiten oder Apps, mit denen du mit Träwelling interagieren kannst, sind keine offiziellen Entwicklungen von uns.
-Drittanbieter-Apps Träwelling bietet eine kostenfreie API an, über welche Drittentwickler*innen mit dem Dienst kommunizieren können. Eine Liste aller (bekannten) Projekte findest du hier.
-Autorisierung Bitte beachte, dass wir bei einer Nutzung von Drittanbieter-Apps keine Handhabe mehr über den weiteren Verlauf deiner Daten haben.</description></item><item><title>Löschung des Benutzerkontos</title><link>https://help.traewelling.de/safety-and-security/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/safety-and-security/privacy/</guid><description>Wenn du dein Benutzerkonto bei Träwelling löschen möchtest, kannst du dies in deinen Einstellungen tun.
-Dein Konto wird dann inklusive aller Daten - wie den Checkins - gelöscht.
-Wir erstellen täglich Backups, um im Falle eines Datenverlustes wiederherstellen zu können. Daher kann es sein, dass deine Daten noch bis zu 14 Tage nach der Löschung in unseren Backups vorhanden sind.
-Automatische Löschung bei Inaktivität Wenn du dein Benutzerkonto längere Zeit nicht benutzt, wird es automatisch gelöscht.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Safety and Security on Hilfe | Träwelling</title><link>https://help.traewelling.de/categories/safety-and-security/</link><description>Recent content in Safety and Security on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><lastBuildDate>Wed, 24 Jul 2024 13:23:27 +0200</lastBuildDate><atom:link href="https://help.traewelling.de/categories/safety-and-security/index.xml" rel="self" type="application/rss+xml"/><item><title>📱 Apps</title><link>https://help.traewelling.de/safety-and-security/apps/</link><pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/safety-and-security/apps/</guid><description>&lt;p>Träwelling selbst bietet derzeit leider keine Apps an.
+Die einzige offizielle Möglichkeit, Träwelling zu nutzen besteht derzeit nur über die
+Webseite &lt;a href="https://traewelling.de">traewelling.de&lt;/a>.
+Alle weiteren Seiten oder Apps, mit denen du mit Träwelling interagieren kannst, sind keine offiziellen Entwicklungen
+von uns.&lt;/p>
+&lt;h2 id="drittanbieter-apps">Drittanbieter-Apps&lt;/h2>
+&lt;p>Träwelling bietet eine kostenfreie &lt;a href="https://de.wikipedia.org/wiki/API">API&lt;/a> an, über welche Drittentwickler*innen mit
+dem Dienst kommunizieren können.
+Eine Liste aller (bekannten) Projekte findest du &lt;a href="https://help.traewelling.de/community/list-of-third-party-apps/">hier&lt;/a>.&lt;/p>
+&lt;h3 id="autorisierung">Autorisierung&lt;/h3>
+
+
+&lt;div class="notices important" >&lt;p>Bitte beachte, dass wir bei einer Nutzung von Drittanbieter-Apps keine Handhabe mehr über den weiteren Verlauf deiner
+Daten haben.
+Solltest du bei uns deinen Account löschen, können die Daten bei Drittanbietern weiterbestehen, ohne dass wir etwas
+daran ändern können.
+Überlege dir bitte gut, welchen Anwendungen du Zugriff auf deine Daten geben möchtest!&lt;/p></description></item><item><title>Löschung des Benutzerkontos</title><link>https://help.traewelling.de/safety-and-security/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/safety-and-security/privacy/</guid><description>&lt;p>Wenn du dein Benutzerkonto bei Träwelling löschen möchtest, kannst du dies in
+deinen &lt;a href="https://traewelling.de/settings">Einstellungen&lt;/a> tun.&lt;/p>
+&lt;p>Dein Konto wird dann inklusive aller Daten - wie den Checkins - gelöscht.&lt;/p>
+
+
+&lt;div class="notices info" >&lt;p>Wir erstellen täglich Backups, um im Falle eines Datenverlustes wiederherstellen zu können.
+Daher kann es sein, dass deine Daten noch bis zu 14 Tage nach der Löschung in unseren Backups vorhanden sind.&lt;/p>&lt;/div>
+&lt;h3 id="automatische-löschung-bei-inaktivität">Automatische Löschung bei Inaktivität&lt;/h3>
+&lt;p>Wenn du dein Benutzerkonto längere Zeit nicht benutzt, wird es automatisch gelöscht.
+Wenn du dich 50 Wochen lang nicht eingeloggt hast und auch kein Check-in (z.B. über die API) erfolgt ist, erhältst du
+eine E-Mail mit dem Hinweis, dass wir dein Benutzerkonto in zwei Wochen löschen werden.&lt;/p></description></item></channel></rss>
