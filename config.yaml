@@ -118,9 +118,6 @@ params:
     - icon: ti-github
       name: Träwelling Help on GitHub
       link: https://github.com/traewelling/help-pages
-    - icon: ti-twitter-alt
-      name: "@traewelling on Twitter"
-      link: https://twitter.com/traewelling
     - icon: ti-comments-smiley
       name: "@traewelling@chaos.social on Mastodon"
       link: https://chaos.social/@traewelling
