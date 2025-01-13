@@ -1,9 +1,9 @@
 ---
-title: "📜 Community-Regeln" # Besseres Wort finden "Regeln" klingt so hart und unfreundlich
+title: "📜 Community-Richtlinien"
 type: docs
 ---
 
-### Warum Community-Regeln?
+### Warum Community-Richtlinien?
 
 Die Träwelling-Community ist mittlerweile so groß geworden, dass es notwendig ist, einige Grundregeln für die Nutzung
 von Träwelling (im Folgenden Plattform genannt) aufzustellen, um ein friedliches und respektvolles Miteinander zu
@@ -12,7 +12,7 @@ gewährleisten.
 ### Durchsetzung
 
 [Wir](/governance/team) möchten so wenig wie möglich in die Community eingreifen.
-Bitte achtet darauf, dass die Plattform ordnungsgemäß genutzt und die Regeln eingehalten werden.
+Bitte achtet darauf, dass die Plattform ordnungsgemäß genutzt und die Richtlinien eingehalten werden.
 
 Sollten dennoch Maßnahmen notwendig sein, versuchen wir diese so wenig invasiv wie möglich zu gestalten.
 Das bedeutet z.B., dass wir eher die Sichtbarkeit von Checkins auf privat setzen oder einen Statustext entfernen,
@@ -20,7 +20,7 @@ als ihn komplett zu löschen.
 
 Die Sperrung oder Löschung eines Accounts ist die letztmögliche Maßnahme. Diese wollen wir so gut es geht vermeiden.
 
-### Regeln
+### Richtlinien
 
 #### Respektvoller Umgang
 
@@ -34,7 +34,7 @@ Manuelle Fahrten, **in welche für andere Personen sichtbar eingecheckt wird**, 
 gedacht.
 
 - Nicht geduldet sind z.B. Auto, Fahrrad, Fußwege.
-- Erlaubt: Grundsätzlich alles im Bereich ÖV/ÖPV/ÖPNV/ÖPFV
+- Erlaubt: Grundsätzlich alles im Bereich ÖV/ÖPV/ÖPNV/ÖPFV/Linienflugverkehr
 - Ausnahmen: z.B. Ruftaxi oder Taxifahrten im Rahmen von Fahrgastrechten bzw. Gastfahrten
 
 #### Veranstaltungen
