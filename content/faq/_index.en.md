@@ -45,9 +45,9 @@ specific time frame; and once accepted, all users can connect their check-ins to
 
 If you want to create an event, please make sure that events should benefit the entire Träwelling community.
 Those events can be from the European railway community such
-as [the last course of a train model](https://traewelling.de/statuses/event/letzte_fahrt_des_met), hacking events such
-as [GPN](https://traewelling.de/statuses/event/gpn20), or from the LGBTQ scene such
-as [Cologne Pride](https://traewelling.de/statuses/event/csd_koln_2022).
+as the last course of a train model, hacking events such
+as GPN, or from the LGBTQ scene such
+as Cologne Pride.
 
 Events are something special. That’s why we decided to deny suggestions to smaller, local events such as Christmas
 Markets or city fairs. As always, there are exceptions to that rule.

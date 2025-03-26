@@ -47,9 +47,9 @@ Zeitraum anlegen und alle Benutzer\*innen von Träwelling können ihre Check-ins
 Wenn du ein Event anlegen möchtest, beachte bitte, dass Veranstaltungen einen Mehrwert für die gesamte Community von
 Träwelling haben sollen.
 Dazu gehören Events aus dem Eisenbahnwesen wie
-bspw. [die letzte Fahrt des Metropolitan](https://traewelling.de/statuses/event/letzte_fahrt_des_met), Events von
-Hackerspaces (z.B. die [GPN](https://traewelling.de/statuses/event/gpn20)), oder aus der LGBTQ-Szene wie
-die [Cologne Pride](https://traewelling.de/statuses/event/csd_koln_2022).
+bspw. die letzte Fahrt des Metropolitan, Events von
+Hackerspaces (z.B. die GPN), oder aus der LGBTQ-Szene wie
+die Cologne Pride.
 
 Veranstaltungen sollen etwas Besonderes sein. Deswegen haben wir uns entschieden, kleine lokale Veranstaltungen wie
 Weihnachtsmärkte und Stadtfeste prinzipiell abzulehnen. Ausnahmen bestätigen hierbei die Regel.
