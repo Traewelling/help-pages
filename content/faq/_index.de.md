@@ -41,7 +41,7 @@ Träwelling bringt Menschen zusammen, die gemeinsam öffentliche Verkehrsmittel 
 Manchmal fahren sie sogar zu derselben Veranstaltung, ohne voneinander zu wissen!
 
 Deswegen haben wir das Veranstaltungen-Feature integriert.
-Jede\*r kann über [unser Formular](https://traewelling.de/events/suggest) eine Veranstaltung für einen bestimmten
+Jede\*r kann über [unser Formular](https://traewelling.de/events) eine Veranstaltung für einen bestimmten
 Zeitraum anlegen und alle Benutzer\*innen von Träwelling können ihre Check-ins dann mit dem Event verknüpfen.
 
 Wenn du ein Event anlegen möchtest, beachte bitte, dass Veranstaltungen einen Mehrwert für die gesamte Community von

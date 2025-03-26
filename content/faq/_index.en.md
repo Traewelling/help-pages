@@ -40,7 +40,7 @@ almost every long-distance train of the Deutsche Bahn.
 Träwelling brings people together who use the same public transport. Sometimes those people even ride to the same
 events, without knowing from another!
 
-That’s why we’ve created the Events feature. Anyone [can suggest an event](https://traewelling.de/events/suggest) n a
+That’s why we’ve created the Events feature. Anyone [can suggest an event](https://traewelling.de/events) in a
 specific time frame; and once accepted, all users can connect their check-ins to that event.
 
 If you want to create an event, please make sure that events should benefit the entire Träwelling community.
