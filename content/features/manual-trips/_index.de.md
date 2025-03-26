@@ -58,5 +58,5 @@ Wenn du einen Fehler findest, schreibe bitte im GitHub-Repo oder füge die Kateg
 {{< notice important >}}
 Bitte lege hier nur Fahrten an, deren Kategorie im Auswahlfeld "Kategorie" vorkommt.
 Manuelle Reisen in privaten KfZ, Fahrrädern, zu Fuß, etc. sind nicht vorgesehen und werden von Zeit zu Zeit gelöscht.
-Mehr Infos in den [Regeln](/rules/#manuelle-fahrten)
+Mehr Infos in den [Community-Richtlinien](/guidelines/)
 {{</ notice >}}
