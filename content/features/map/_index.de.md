@@ -2,37 +2,37 @@
 title: "Fahrtverlauf (Karte)"
 ---
 
-Zu jeder Fahrt siehst du - in der Regel - eine Karte, die den Verlauf der Fahrt anzeigt.
-Wir haben Kartendaten ursprünglich von den [Fahrplandaten](/features/timetable) übernommen, die wir nutzen.
-Im April 2025 haben wir auf [Transitous als neues Backend umgestellt](/features/timetable).
-Bisher unterstützen wir die Fahrtverläufe noch nicht, daher werden nur Karten von Station zu Station angezeigt.
+Bei (fast) jeder Fahrt zeigt Träwelling dir eine Karte an, auf der der ungefähre Verlauf deiner Fahrt dargestellt wird.
 
-Nach einem Checkin versuchen wir mit Hilfe von [BRouter](https://brouter.de/brouter-web/) eine exaktere Route entlang
-der Stationen zu berechnen.
-Leider ist das nicht immer möglich, da die Koordinaten der Haltestellen nicht immer an den für die Fahrten genutzten
-Gleisen liegen.
+### Woher stammen die Kartendaten?
 
-#### BRouter und die weiteren Probleme...
+Die ursprünglichen Streckenverläufe basieren auf [Fahrplandaten](/features/timetable), die wir für Träwelling nutzen.  
+Seit April 2025 verwenden wir [Transitous](/features/timetable) als neues System im Hintergrund.
 
-Nach einem Checkin versuchen wir die Karte mit Hilfe
-von [BRouter](https://brouter.de/brouter-web/#map=6/51/10/standard&profile=rail) zu verbessern.
-Dazu lassen wir die Strecken mit allen bekannten Zwischenhalten neu berechnen.
-Das kann jedoch auch zu Fehlern führen, wenn z.B. auf längeren Strecken keine Zwischenhalte bekannt sind und daher der
-Streckenverlauf nicht korrekt abgebildet werden kann.
+Aktuell zeigt Träwelling die Strecken **nur von Station zu Station** an. Eine detaillierte Linienführung (z. B. exakte Gleisverläufe) ist momentan noch nicht möglich.
 
-In Ballungszentren mit vielen getrennten Schienensystemen kann es außerdem dazu kommen, dass die Karte bei manchen
-Zwischenhalten eine falsche Haltestelel als nächste auswählt und daher ein komplett falscher Streckenverlauf angezeigt
-wird.
+### Genauere Routen mit BRouter
 
-**Beispiel: Du fährst mit der S-Bahn Hannover von Hannover Hbf nach Hannover Karl-Wiechert-Allee.**
-Faktisch ist das eine Fahrt durchgehend auf einer Eisenbahnstrecke.
-Die Haltestelle Karl-Wiechert-Allee ist jedoch sehr nah an einer Stadtbahnhaltestelle.
-Da die Koordinaten der Haltestelle leider nicht eindeutig genug sind versucht BRouter also die Strecke über die
-Stadtbahngleise und den Übergangspunkt von Eisenbahn- zu Stadtbahnstrecke in Leinhausen zu routen.
-Das führt zu einer entsprechend langen, wilden Streckenführung.
+Nach deinem Check-in versucht Träwelling, mit [BRouter](https://brouter.de/brouter-web/) eine genauere Route entlang deiner Stationen zu berechnen.  
+Dabei werden bekannte Zwischenhalte berücksichtigt, um eine möglichst realistische Streckenführung zu erzeugen.
+
+Das klappt aber nicht immer perfekt:
+
+- Manchmal liegen die gespeicherten Koordinaten der Haltestellen **nicht direkt an den tatsächlich befahrenen Gleisen**.
+- Auf längeren Strecken **ohne bekannte Zwischenhalte** kann BRouter die Route **nicht korrekt berechnen**.
+- In **Ballungsräumen mit vielen Bahnarten** (z. B. S-Bahn, Stadtbahn, Fernbahn) kann es zu **Verwechslungen** kommen.
+
+### Beispiel: Routing-Fehler in Hannover
+
+**Du fährst mit der S-Bahn von Hannover Hbf nach Hannover Karl-Wiechert-Allee.**  
+Tatsächlich verläuft diese Fahrt komplett auf einer Eisenbahnstrecke.
+
+Allerdings liegt die Haltestelle „Karl-Wiechert-Allee“ sehr nah an einer gleichnamigen Stadtbahnhaltestelle.  
+Da BRouter die Koordinaten nicht eindeutig zuordnen kann, **wählt es fälschlicherweise die Stadtbahnroute**.  
+Das Ergebnis: Die angezeigte Strecke führt unnötig über Leinhausen, wo ein Übergang zur Stadtbahn möglich wäre – **ein klarer Fehler**.
 
 <img src="error-hannover-hbf-kwa.png">
 <small>
-    &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>
+    &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>  
     &copy; <a href="https://github.com/abrensch/brouter">BRouter</a>
 </small>
