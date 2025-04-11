@@ -67,7 +67,7 @@ this case, please try an e-mail with another provider first.
 {{</ faq >}}
 
 {{< faq "🚂 Why isn't my train listed?" >}}
-We use an interface of the Deutsche Bahn, where not all offers are displayed directly.
+Please have a look at the [timetable data section](/features/timetable).
 
 If you're missing a connection, you can create it manually.
 You can find more information about this in the [manual trips section](/features/manual-trips).

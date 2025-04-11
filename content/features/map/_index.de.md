@@ -3,15 +3,14 @@ title: "Fahrtverlauf (Karte)"
 ---
 
 Zu jeder Fahrt siehst du - in der Regel - eine Karte, die den Verlauf der Fahrt anzeigt.
-Wir übernehmen die Kartendaten von den [Fahrplandaten](/features/timetable), die wir nutzen.
-Diese sind häufig leider nicht so genau, wie wir es gerne hätten, daher kann es vorkommen, dass die Karte nicht immer
-korrekt ist und zum Beispiel eine falsche Streckenführung anzeigt.
+Wir haben Kartendaten ursprünglich von den [Fahrplandaten](/features/timetable) übernommen, die wir nutzen.
+Im April 2025 haben wir auf [Transitous als neues Backend umgestellt](/features/timetable).
+Bisher unterstützen wir die Fahrtverläufe noch nicht, daher werden nur Karten von Station zu Station angezeigt.
 
-#### Warum ist die Karte im Ausland (außerhalb Deutschlands) ungenau?
-
-Das liegt schlicht und einfach daran, dass in den Daten der DB nur Routen für Strecken in Deutschland hinterlegt sind.
-Im Ausland verläuft die Fahrt nur von Station zu Station.
-Das versuchen wir mit Hilfe von [BRouter](https://brouter.de/brouter-web/) zu verbessern.
+Nach einem Checkin versuchen wir mit Hilfe von [BRouter](https://brouter.de/brouter-web/) eine exaktere Route entlang
+der Stationen zu berechnen.
+Leider ist das nicht immer möglich, da die Koordinaten der Haltestellen nicht immer an den für die Fahrten genutzten
+Gleisen liegen.
 
 #### BRouter und die weiteren Probleme...
 
