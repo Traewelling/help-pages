@@ -9,70 +9,99 @@ draft: false
 |
 [➕ Request feature](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
 
-{{< faq "🔗 What is Träwelling?" >}}
-Träwelling is a free check-in service that lets you tell your friends where you are and where you can log your public
-transit journeys.
-In short, you can check into trains and get points for it.
-{{</ faq >}}
 
-{{< faq "🧑‍💻 Who develops Träwelling?" >}}
-Träwelling is an open source project.
-Since 2013, various people have been developing the project.
-Partly only bugfixes, partly major changes.
-On [GitHub](https://github.com/Traewelling/traewelling/graphs/contributors) you can view a list of contributors to the
-code.
-Additionally, a few people have assisted with the alpha version.
-You can find them [hier](https://traewelling.de/humans.txt).
-{{</ faq >}}
+{{< faq "🚂 Why is my train not listed? " >}}
+We have more detailed information on this on the [timetable data page](/features/timetable).
 
-{{< faq "🛠️ I would like to contribute to Träwelling! " >}}
-Träwelling is an open source project and everyone can contribute. You can find all the information about it on our
-GitHub page. We are happy about every contribution - simply create a PullRequest! You can either work on your own ideas
-or pick a task from our Issues on GitHub.
-{{</ faq >}}
-
-{{< faq "🤔 Where does the name come from?" >}}
-The name is an allusion to the well-known "*Senk ju for träwelling wis Deutsche Bahn*", which you should have heard in
-almost every long-distance train of the Deutsche Bahn.
-{{</ faq >}}
-
-{{< faq "🎉 What are events? " >}}
-Träwelling brings people together who use the same public transport. Sometimes those people even ride to the same
-events, without knowing from another!
-
-That’s why we’ve created the Events feature. Anyone [can suggest an event](https://traewelling.de/events) in a
-specific time frame; and once accepted, all users can connect their check-ins to that event.
-
-If you want to create an event, please make sure that events should benefit the entire Träwelling community.
-Those events can be from the European railway community such
-as the last course of a train model, hacking events such
-as GPN, or from the LGBTQ scene such
-as Cologne Pride.
-
-Events are something special. That’s why we decided to deny suggestions to smaller, local events such as Christmas
-Markets or city fairs. As always, there are exceptions to that rule.
-
-You'll find more information at [Features > Events](/features/events)
-{{</ faq >}}
-
-{{< faq "📭 Why don't I receive a confirmation email? " >}}
-First of all, please check if the email is in the spam folder. If the email is not in the spam folder, please add '
-gertrud@traewelling.de' to your contacts and request the email again. If the email still does not arrive, please contact
-us via our contact form.
-
-{{<notice info>}}
-Please note that in the past there were often problems with Microsoft addresses (e.g. Live, Outlook, Hotmail, ...). In
-this case, please try an e-mail with another provider first.
-{{</ notice>}}
-{{</ faq >}}
-
-{{< faq "🚂 Why isn't my train listed?" >}}
-Please have a look at the [timetable data section](/features/timetable).
-
-If you're missing a connection, you can create it manually.
-You can find more information about this in the [manual trips section](/features/manual-trips).
+If you are missing a connection, you can also add it manually.
+You can find out how to do this under [Features > Add trip manually](/features/manual-trips).
 {{</ faq >}}
 
 {{< faq "📊 How are points calculated?" >}}
-The topic of points is very complex and we have created a [separate page](/en/features/points) for it.
+The points system is somewhat complex - we have therefore created a [separate page](/features/points) for it.
+{{</ faq >}}
+
+{{< faq "🎉 What are events?" >}}
+Träwelling brings people together who are travelling together on public transport.
+
+Sometimes they are even travelling to the same event - without knowing it!
+That's why we've added the event feature.
+
+Via [this form](https://traewelling.de/events) an event can be created for a specific time period.
+Check-ins can then be linked to the event.
+
+⚠️ Please note: Events should offer added value for the entire community.
+
+Good examples are
+- Railway events (e.g. last trip of the Metropolitan)
+- Hackerspace meetings (e.g. GPN)
+- LGBTQ events (e.g. Cologne Pride)
+
+❌ We generally reject smaller, local events such as Christmas markets or city festivals - but exceptions are possible.
+
+You can find out more under [Features > Events](/features/events).
+{{</ faq >}}
+
+{{< faq "📭 Why don't I receive a confirmation email?" >}}
+1. first check the **spam folder**.
+2. if there is nothing there, please add `gertrud@traewelling.de` to your contacts.
+3. then request the mail again.
+
+If you **still haven't received an email**, please contact us.
+
+{{<notice info>}}
+🔔 Note: Problems often occur with email addresses from Microsoft (e.g. @live.de, @outlook.com, @hotmail.com).  
+Tip: Try an address from another provider.
+{{</ notice>}}
+{{</ faq >}}
+
+{{< faq "🔗 What is Träwelling? " >}}
+
+Träwelling is a free check-in service.
+
+You can:
+- tell your friends where you are travelling,
+- document your journeys on public transport and
+- collect points.
+
+In short: you check in on trains and get points for it. 🚆
+
+Every person uses Träwelling differently.
+Some use it as a logbook, others to document their journeys.
+Or as proof for the tax office for tax reasons.
+
+{{</ faq >}}
+
+{{< faq "🧑‍💻 Who develops Träwelling?" >}}
+
+Träwelling is an open source project that many people have been working on since 2013, sometimes with small bug fixes, sometimes with large features.
+
+You can find the list of contributors on [GitHub](https://github.com/Traewelling/traewelling/graphs/contributors).
+
+Some people have also supported us with the alpha version: [you can find them here](https://traewelling.de/humans.txt).
+
+{{</ faq >}}
+
+{{< faq "🛠️ I would also like to help develop Träwelling!" >}}
+
+Nice! Träwelling is open source - anyone can join in.
+
+You can find all the information on our [GitHub page](https://github.com/Traewelling/traewelling).
+
+You can:
+- implement your own ideas,
+- pick tasks from our issues,
+- simply create a pull request.
+
+We look forward to every contribution - no matter how small or large!
+
+{{</ faq >}}
+
+{{< faq "🤔 Where does the name come from?" >}}
+
+The name is a reference to the well-known railway phrase:  
+**"Senk ju for träwelling wis Deutsche Bahn. "**
+
+Almost everyone knows this from long-distance transport. 😄
+
 {{</ faq >}}
