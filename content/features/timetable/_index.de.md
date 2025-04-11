@@ -2,6 +2,16 @@
 title: "Fahrplandaten"
 ---
 
+{{<notice info>}}
+**Wir haben am 11.04.2025 die Datenquelle für die Fahrplandaten gewechselt.
+Ab sofort beziehen wir die Daten von [Transitous](https://transitous.org/).**
+Die Qualität der Daten unterscheidet sich von den vorherigen Datenquellen, es kann also zu einem geänderten
+Nutzererlebnis kommen.
+Bitte hilf mit, Transitous zu verbessern und bring dich in die Community ein.
+Mehr Infos zu Transitous findest du weiter unten auf dieser Seite.
+
+{{</ notice>}}
+
 Bei Träwelling nutzen wir derzeit als einzige Datenquelle [Transitous](https://transitous.org/).
 Bis April 2025 wurden die Daten von Schnittstellen der Deutschen Bahn bezogen.
 
@@ -10,20 +20,22 @@ die [Fahrt auch manuell erstellen](/features/manual-trips).
 
 ### Was ist Transitous?
 
-Transitous ist ein kostenloser, offener Routingdienst für den öffentlichen Verkehr, 
+Transitous ist ein kostenloser, offener Routingdienst für den öffentlichen Verkehr,
 der von einer Community betrieben wird und unabhängig von Verkehrsunternehmen agiert.
 Er ermöglicht internationale, grenzüberschreitende Routenplanung.
 
 ### Was macht Transitous besonders?
 
 - **Grenzenlose Routenplanung**:
-Transitous berücksichtigt Fahrplandaten aus verschiedenen Ländern und ermöglicht so eine nahtlose Planung über Landesgrenzen hinweg.
+  Transitous berücksichtigt Fahrplandaten aus verschiedenen Ländern und ermöglicht so eine nahtlose Planung über
+  Landesgrenzen hinweg.
 
 - **Offene Datenbasis**:
-Transitous nutzt öffentlich verfügbare Fahrplandaten (z. B. GTFS und GTFS-RT) und setzt auf freie Softwarelösungen wie die Routing-Engine MOTIS.
+  Transitous nutzt öffentlich verfügbare Fahrplandaten (z. B. GTFS und GTFS-RT) und setzt auf freie Softwarelösungen wie
+  die Routing-Engine MOTIS.
 
 - **Gemeinschaftsprojekt**:
-Die Plattform wird von Freiwilligen gepflegt, die regionale Fahrplandaten zusammentragen und aktualisieren.
+  Die Plattform wird von Freiwilligen gepflegt, die regionale Fahrplandaten zusammentragen und aktualisieren.
 
 ### Wie nutzt Träwelling Transitous?
 
