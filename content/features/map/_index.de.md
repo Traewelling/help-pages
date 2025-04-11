@@ -2,38 +2,37 @@
 title: "Fahrtverlauf (Karte)"
 ---
 
-Zu jeder Fahrt siehst du - in der Regel - eine Karte, die den Verlauf der Fahrt anzeigt.
-Wir übernehmen die Kartendaten von den [Fahrplandaten](/features/timetable), die wir nutzen.
-Diese sind häufig leider nicht so genau, wie wir es gerne hätten, daher kann es vorkommen, dass die Karte nicht immer
-korrekt ist und zum Beispiel eine falsche Streckenführung anzeigt.
+Bei (fast) jeder Fahrt zeigt Träwelling dir eine Karte an, auf der der ungefähre Verlauf deiner Fahrt dargestellt wird.
 
-#### Warum ist die Karte im Ausland (außerhalb Deutschlands) ungenau?
+### Woher stammen die Kartendaten?
 
-Das liegt schlicht und einfach daran, dass in den Daten der DB nur Routen für Strecken in Deutschland hinterlegt sind.
-Im Ausland verläuft die Fahrt nur von Station zu Station.
-Das versuchen wir mit Hilfe von [BRouter](https://brouter.de/brouter-web/) zu verbessern.
+Die ursprünglichen Streckenverläufe basieren auf [Fahrplandaten](/features/timetable), die wir für Träwelling nutzen.  
+Seit April 2025 verwenden wir [Transitous](/features/timetable) als neues System im Hintergrund.
 
-#### BRouter und die weiteren Probleme...
+Aktuell zeigt Träwelling die Strecken **nur von Station zu Station** an. Eine detaillierte Linienführung (z. B. exakte Gleisverläufe) ist momentan noch nicht möglich.
 
-Nach einem Checkin versuchen wir die Karte mit Hilfe
-von [BRouter](https://brouter.de/brouter-web/#map=6/51/10/standard&profile=rail) zu verbessern.
-Dazu lassen wir die Strecken mit allen bekannten Zwischenhalten neu berechnen.
-Das kann jedoch auch zu Fehlern führen, wenn z.B. auf längeren Strecken keine Zwischenhalte bekannt sind und daher der
-Streckenverlauf nicht korrekt abgebildet werden kann.
+### Genauere Routen mit BRouter
 
-In Ballungszentren mit vielen getrennten Schienensystemen kann es außerdem dazu kommen, dass die Karte bei manchen
-Zwischenhalten eine falsche Haltestelel als nächste auswählt und daher ein komplett falscher Streckenverlauf angezeigt
-wird.
+Nach deinem Check-in versucht Träwelling, mit [BRouter](https://brouter.de/brouter-web/) eine genauere Route entlang deiner Stationen zu berechnen.  
+Dabei werden bekannte Zwischenhalte berücksichtigt, um eine möglichst realistische Streckenführung zu erzeugen.
 
-**Beispiel: Du fährst mit der S-Bahn Hannover von Hannover Hbf nach Hannover Karl-Wiechert-Allee.**
-Faktisch ist das eine Fahrt durchgehend auf einer Eisenbahnstrecke.
-Die Haltestelle Karl-Wiechert-Allee ist jedoch sehr nah an einer Stadtbahnhaltestelle.
-Da die Koordinaten der Haltestelle leider nicht eindeutig genug sind versucht BRouter also die Strecke über die
-Stadtbahngleise und den Übergangspunkt von Eisenbahn- zu Stadtbahnstrecke in Leinhausen zu routen.
-Das führt zu einer entsprechend langen, wilden Streckenführung.
+Das klappt aber nicht immer perfekt:
+
+- Manchmal liegen die gespeicherten Koordinaten der Haltestellen **nicht direkt an den tatsächlich befahrenen Gleisen**.
+- Auf längeren Strecken **ohne bekannte Zwischenhalte** kann BRouter die Route **nicht korrekt berechnen**.
+- In **Ballungsräumen mit vielen Bahnarten** (z. B. S-Bahn, Stadtbahn, Fernbahn) kann es zu **Verwechslungen** kommen.
+
+### Beispiel: Routing-Fehler in Hannover
+
+**Du fährst mit der S-Bahn von Hannover Hbf nach Hannover Karl-Wiechert-Allee.**  
+Tatsächlich verläuft diese Fahrt komplett auf einer Eisenbahnstrecke.
+
+Allerdings liegt die Haltestelle „Karl-Wiechert-Allee“ sehr nah an einer gleichnamigen Stadtbahnhaltestelle.  
+Da BRouter die Koordinaten nicht eindeutig zuordnen kann, **wählt es fälschlicherweise die Stadtbahnroute**.  
+Das Ergebnis: Die angezeigte Strecke führt unnötig über Leinhausen, wo ein Übergang zur Stadtbahn möglich wäre – **ein klarer Fehler**.
 
 <img src="error-hannover-hbf-kwa.png">
 <small>
-    &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>
+    &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>  
     &copy; <a href="https://github.com/abrensch/brouter">BRouter</a>
 </small>

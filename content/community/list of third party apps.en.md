@@ -18,10 +18,10 @@ Therefore, we ask you to link only open source projects here.
 
 ### Websites
 
-| Project   | Link                                                                           | Status | Infos                                                                                                                                            |
-|-----------|--------------------------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Travelynx | [http://travelynx.de/](http://travelynx.de/)                                   | public | Travelynx is a separate, independent check-in service for trains in the Deutsche Bahn network. It offers synchronization to and from Träwelling. |
-| Aboard    | [https://github.com/sunrisesdev/aboard](https://github.com/sunrisesdev/aboard) | public | Aboard is an alternative web client for Träwelling, which focuses on mobile operation.                                                           |
+| Project   | Link                                                                           | Status | Infos                                                                                                               |
+|-----------|--------------------------------------------------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------|
+| Travelynx | [http://travelynx.de/](http://travelynx.de/)                                   | public | Travelynx is a separate, independent check-in service for trains. It offers synchronization to and from Träwelling. |
+| Aboard    | [https://github.com/sunrisesdev/aboard](https://github.com/sunrisesdev/aboard) | public | Aboard is an alternative web client for Träwelling, which focuses on mobile operation.                              |
 
 ### Apps
 

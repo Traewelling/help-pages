@@ -2,25 +2,55 @@
 title: "Fahrplandaten"
 ---
 
-Bei Träwelling nutzen wir derzeit als einzige Datenquelle eine
-[HAFAS](https://de.wikipedia.org/wiki/HAFAS)-Schnittstelle zur Deutschen Bahn.
-Wir greifen über [DB-Rest](https://github.com/derhuerst/db-rest) darauf zu.
-Ganz grob kann man also sagen, dass wir alle Fahrten kennen "die du im DB-Navigator findest"
-(auch, wenn das seit der Einführung des Next DB Navigator und der Umstellung der dort genutzten API nicht mehr so ganz
-stimmt).
+{{<notice info>}}
+**Wir haben am 11.04.2025 die Datenquelle für die Fahrplandaten gewechselt.
+Ab sofort beziehen wir die Daten von [Transitous](https://transitous.org/).**
+Die Qualität der Daten unterscheidet sich von den vorherigen Datenquellen, es kann also zu einem geänderten
+Nutzererlebnis kommen.
+Bitte hilf mit, Transitous zu verbessern und bring dich in die Community ein.
+Mehr Infos zu Transitous findest du weiter unten auf dieser Seite.
 
-Wenn du in eine Fahrt einchecken willst, die wir über die HAFAS-Schnittstelle nicht finden, kannst du
+{{</ notice>}}
+
+Bei Träwelling nutzen wir derzeit als einzige Datenquelle [Transitous](https://transitous.org/).
+Bis April 2025 wurden die Daten von Schnittstellen der Deutschen Bahn bezogen.
+
+Wenn du in eine Fahrt einchecken willst, die wir über Transitous nicht beziehen, kannst du
 die [Fahrt auch manuell erstellen](/features/manual-trips).
 
-#### Aussichten
+### Was ist Transitous?
 
-DB-HAFAS als Datenquelle ist schon sehr gut, da hier viele Verbindungen in Deutschland und Europa abgedeckt sind, welche
-dem [EFZ](https://de.wikipedia.org/wiki/Europ%C3%A4isches_Fahrplanzentrum) bekannt sind.
-Um mehr Verbindungen und Länder abzudecken, möchten wir gerne auf mehrere Datenquellen zugreifen, jedoch fehlt uns
-hierfür die Kapazität, um das zu entwickeln.
+Transitous ist ein kostenloser, offener Routingdienst für den öffentlichen Verkehr,
+der von einer Community betrieben wird und unabhängig von Verkehrsunternehmen agiert.
+Er ermöglicht internationale, grenzüberschreitende Routenplanung.
 
-Neben der Anbindung weiteren HAFAS Systemen anderer Länder und diversen deutschen EFA- und TRIAS-Systemen wäre auch die
-Nutzung von Daten aus [OpenStreetMap](https://www.openstreetmap.org/) und
-[Wikidata](https://www.wikidata.org/wiki/Q688541) für detailliertere Informationen zu Haltestellen und Routen denkbar.
+### Was macht Transitous besonders?
 
-Wenn du uns dabei helfen möchtest, freuen wir uns über deine Unterstützung.
+- **Grenzenlose Routenplanung**:
+  Transitous berücksichtigt Fahrplandaten aus verschiedenen Ländern und ermöglicht so eine nahtlose Planung über
+  Landesgrenzen hinweg.
+
+- **Offene Datenbasis**:
+  Transitous nutzt öffentlich verfügbare Fahrplandaten (z. B. GTFS und GTFS-RT) und setzt auf freie Softwarelösungen wie
+  die Routing-Engine MOTIS.
+
+- **Gemeinschaftsprojekt**:
+  Die Plattform wird von Freiwilligen gepflegt, die regionale Fahrplandaten zusammentragen und aktualisieren.
+
+### Wie nutzt Träwelling Transitous?
+
+Träwelling nutzt die vorhandenen Schnittstellen für Stations- und Abfahrtsdaten.
+Die Routingdaten werden nicht verwendet.
+
+Da Transitous ein Community-Projekt ist, welches die Daten von Verkehrsunternehmen aggregiert,
+kann es sein, dass nicht alle Haltestellen und Linien verfügbar sind.
+
+Du kannst helfen, indem du dich an der Community beteiligst und z. B. Feeds hinzufügst oder aktualisierst.
+
+Mehr Infos dazu findest du auf der Transitous-Webseite bzw. im GitHub-Repo.
+
+#### Weitere Informationen
+
+Webseite: [transitous.org](https://transitous.org/)
+
+Quellcode: [GitHub – public-transport/transitous](https://github.com/public-transport/transitous)
