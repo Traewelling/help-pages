@@ -49,6 +49,11 @@ Du kannst helfen, indem du dich an der Community beteiligst und z. B. Feeds hinz
 
 Mehr Infos dazu findest du auf der Transitous-Webseite bzw. im GitHub-Repo.
 
+{{<notice info>}}
+Es stehen aktuell nur Fahrplandaten zur Verfügung, die unter einer offenen Lizenz veröffentlicht sind.
+Darunter zählen z. B. CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0 und die ODbL-1.0.
+{{</ notice>}}
+
 #### Weitere Informationen
 
 Webseite: [transitous.org](https://transitous.org/)
