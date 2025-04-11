@@ -10,7 +10,7 @@ die [Fahrt auch manuell erstellen](/features/manual-trips).
 
 ### Was ist Transitous?
 
-Transitous ist ein kostenloser, offener Routingdienst für den öffentlichen Nahverkehr, 
+Transitous ist ein kostenloser, offener Routingdienst für den öffentlichen Verkehr, 
 der von einer Community betrieben wird und unabhängig von Verkehrsunternehmen agiert.
 Er ermöglicht internationale, grenzüberschreitende Routenplanung.
 
