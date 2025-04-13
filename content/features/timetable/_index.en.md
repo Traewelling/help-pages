@@ -1,0 +1,61 @@
+---
+title: "Timetable data"
+---
+
+{{<notice note>}}
+**We changed the data source for the timetable data on 2025-04-11.
+From now on we obtain the data from [Transitous](https://transitous.org/).**
+The quality of the data differs from the previous data sources, so the user experience may vary.
+Please help us to improve Transitous and get involved in the community.
+You can find more information about Transitous further down this page.
+{{</ notice>}}
+
+{{<notice important>}}
+Only timetable data published under an open license is currently available.
+These include, for example, CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0 and ODbL-1.0.
+We are gradually working on activating more data sources.
+There will still be some incompleteness in the initial phase.
+{{</ notice>}}
+
+For Träwelling, we currently use [Transitous](https://transitous.org/) as the only data source.
+Up until April 2025, the data was obtained from Deutsche Bahn interfaces.
+
+If you want to check into a journey that we can not obtain via Transitous, you can
+create the [trip manually](/en/features/manual-trips).
+
+### What is Transitous?
+
+Transitous is a free, open routing service for public transportation,
+operated by a community and independent of transport companies.
+It enables international, cross-border route planning.
+
+### What makes Transitous special?
+
+- **Unlimited route planning**:
+  Transitous takes into account timetable data from different countries and thus enables seamless planning across
+  across national borders.
+
+- **Open database**:
+  Transitous uses publicly available timetable data (e.g. GTFS and GTFS-RT) and relies on free software solutions such as
+  the MOTIS routing engine.
+
+- **Community project**:
+  The platform is maintained by volunteers who collect and update regional timetable data.
+
+### How does Träwelling use Transitous?
+
+Träwelling uses the existing interfaces for station and departure data.
+The routing data is not used.
+
+As Transitous is a community project that aggregates data from transportation companies,
+it is possible that not all stops and routes are available.
+
+You can help by participating in the community and adding or updating feeds, for example.
+
+You can find more information on the Transitous website or in the GitHub repo.
+
+#### Weitere Informationen
+
+Webseite: [transitous.org](https://transitous.org/)
+
+Quellcode: [GitHub - public-transport/transitous](https://github.com/public-transport/transitous)

@@ -2,7 +2,7 @@
 title: "Fahrplandaten"
 ---
 
-{{<notice info>}}
+{{<notice note>}}
 **Wir haben am 11.04.2025 die Datenquelle für die Fahrplandaten gewechselt.
 Ab sofort beziehen wir die Daten von [Transitous](https://transitous.org/).**
 Die Qualität der Daten unterscheidet sich von den vorherigen Datenquellen, es kann also zu einem geänderten
@@ -12,10 +12,16 @@ Mehr Infos zu Transitous findest du weiter unten auf dieser Seite.
 
 {{</ notice>}}
 
+{{<notice important>}}
+Es stehen aktuell nur Fahrplandaten zur Verfügung, die unter einer offenen Lizenz veröffentlicht sind.
+Darunter zählen z. B. CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0 und die ODbL-1.0. Wir arbeiten nach und nach daran, mehr Datenquellen
+zu aktivieren. In der Anfangsphase werden noch einige Unvollständigkeiten auftreten.
+{{</ notice>}}
+
 Bei Träwelling nutzen wir derzeit als einzige Datenquelle [Transitous](https://transitous.org/).
 Bis April 2025 wurden die Daten von Schnittstellen der Deutschen Bahn bezogen.
 
-Wenn du in eine Fahrt einchecken willst, die wir über Transitous nicht beziehen, kannst du
+Wenn du in eine Fahrt einchecken willst, die wir über Transitous nicht beziehen können, kannst du
 die [Fahrt auch manuell erstellen](/features/manual-trips).
 
 ### Was ist Transitous?
@@ -48,11 +54,6 @@ kann es sein, dass nicht alle Haltestellen und Linien verfügbar sind.
 Du kannst helfen, indem du dich an der Community beteiligst und z. B. Feeds hinzufügst oder aktualisierst.
 
 Mehr Infos dazu findest du auf der Transitous-Webseite bzw. im GitHub-Repo.
-
-{{<notice info>}}
-Es stehen aktuell nur Fahrplandaten zur Verfügung, die unter einer offenen Lizenz veröffentlicht sind.
-Darunter zählen z. B. CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0 und die ODbL-1.0.
-{{</ notice>}}
 
 #### Weitere Informationen
 
