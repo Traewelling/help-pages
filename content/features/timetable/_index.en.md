@@ -23,6 +23,19 @@ Up until April 2025, the data was obtained from Deutsche Bahn interfaces.
 If you want to check into a journey that we can not obtain via Transitous, you can
 create the [trip manually](/en/features/manual-trips).
 
+### Why the migration to Transitous?
+
+Until January 2025, we at Träwelling accessed timetable data via a HAFAS interface from Deutsche Bahn.
+However, this was finally deactivated in January 2025 when DB Business Navigator was switched off.
+As a result, it was no longer possible to check in for almost a week.
+
+We then integrated an alternative interface from bahn.de at short notice to restore functionality.
+However, this interface was not intended for external projects and is therefore unstable.
+In April 2025, we suddenly only received the error ‘Access Denied’ - our servers could no longer retrieve timetable data.
+
+Although this is only an assumption, we assume that our IP address was blocked by Deutsche Bahn.
+As we rely on a stable and open data source, migrating to Transitous was the next logical step.
+
 ### What is Transitous?
 
 Transitous is a free, open routing service for public transportation,

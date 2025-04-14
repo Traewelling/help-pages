@@ -24,6 +24,19 @@ Bis April 2025 wurden die Daten von Schnittstellen der Deutschen Bahn bezogen.
 Wenn du in eine Fahrt einchecken willst, die wir über Transitous nicht beziehen können, kannst du
 die [Fahrt auch manuell erstellen](/features/manual-trips).
 
+### Warum die Migration zu Transitous?
+
+Bis Januar 2025 haben wir bei Träwelling auf Fahrplandaten über eine HAFAS-Schnittstelle der Deutschen Bahn zugegriffen.
+Diese wurde jedoch im Januar 2025 im Zuge der Abschaltung des DB Business Navigators endgültig deaktiviert.
+In der Folge war das Einchecken für fast eine Woche nicht mehr möglich.
+
+Wir haben daraufhin kurzfristig eine alternative Schnittstelle von bahn.de integriert, um die Funktionalität wiederherzustellen.
+Diese Schnittstelle war jedoch nicht für externe Projekte gedacht und ist entsprechend instabil.
+Im April 2025 erhielten wir plötzlich nur noch den Fehler „Access Denied“ - unsere Server konnten keine Fahrplandaten mehr abrufen.
+
+Zwar ist dies nur eine Vermutung, aber wir gehen davon aus, dass unsere IP-Adresse von der Deutschen Bahn gesperrt wurde.
+Da wir auf eine stabile und offene Datenquelle angewiesen sind, war die Migration zu Transitous der nächste logische Schritt.
+
 ### Was ist Transitous?
 
 Transitous ist ein kostenloser, offener Routingdienst für den öffentlichen Verkehr,
