@@ -14,8 +14,10 @@ Mehr Infos zu Transitous findest du weiter unten auf dieser Seite.
 
 {{<notice important>}}
 Es stehen aktuell nur Fahrplandaten zur Verfügung, die unter einer offenen Lizenz veröffentlicht sind.
-Darunter zählen z. B. CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0 und die ODbL-1.0. Wir arbeiten nach und nach daran, mehr Datenquellen
-zu aktivieren. In der Anfangsphase werden noch einige Unvollständigkeiten auftreten.
+Wir arbeiten nach und nach daran, mehr Datenquellen zu aktivieren.
+In der Anfangsphase werden noch einige Unvollständigkeiten auftreten.
+Du kannst auf dieser Seite sehen, was für Sourcen wir aktiviert haben:
+[traewelling.de/debug/motis-sources](https://traewelling.de/debug/motis-sources)
 {{</ notice>}}
 
 Bei Träwelling nutzen wir derzeit als einzige Datenquelle [Transitous](https://transitous.org/).

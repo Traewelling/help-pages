@@ -12,9 +12,10 @@ You can find more information about Transitous further down this page.
 
 {{<notice important>}}
 Only timetable data published under an open license is currently available.
-These include, for example, CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0 and ODbL-1.0.
 We are gradually working on activating more data sources.
 There will still be some incompleteness in the initial phase.
+You can see on this page which sources we have activated:
+[traewelling.de/debug/motis-sources](https://traewelling.de/debug/motis-sources)
 {{</ notice>}}
 
 For Träwelling, we currently use [Transitous](https://transitous.org/) as the only data source.
