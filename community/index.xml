@@ -1,9 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🤝 Community on Hilfe | Träwelling</title><link>https://help.traewelling.de/community/</link><description>Recent content in 🤝 Community on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><atom:link href="https://help.traewelling.de/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Liste von Drittanbieter-Projekten</title><link>https://help.traewelling.de/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/community/list-of-third-party-apps/</guid><description>&lt;h2 id="drittanbieter-apps">Drittanbieter-Apps&lt;/h2>
-&lt;p>Träwelling bietet eine kostenfreie API an, über welche Drittentwickler*innen mit dem Dienst kommunizieren können.
-Um eine bessere Übersicht bieten zu können, welche Apps es derzeit gibt und was man damit machen kann, wurde diese Seite
-geschaffen!&lt;/p>
-&lt;p>Unser Projekt lebt davon, quelloffen zu sein und wir leben den Open Source Gedanken. Deshalb bitten wir euch, hier
-ebenfalls nur quelloffene Projekte zu verlinken.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🤝 Community on Hilfe | Träwelling</title><link>https://help.traewelling.de/community/</link><description>Recent content in 🤝 Community on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><atom:link href="https://help.traewelling.de/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Projekte von Drittanbietern</title><link>https://help.traewelling.de/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/community/list-of-third-party-apps/</guid><description>&lt;p>Träwelling bietet eine kostenfreie API an, über welche Drittanwendungen mit Träwelling interagieren können.
+Auf dieser Seite sammeln wir quelloffene Projekte, die entweder mit Träwelling interagieren oder gar eine Alternative zu
+Träwelling darstellen.&lt;/p>
+&lt;h2 id="alternativprojekte">Alternativprojekte&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Projekt&lt;/th>
+ &lt;th>Link&lt;/th>
+ &lt;th>Infos&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Travelynx&lt;/td>
+ &lt;td>&lt;a href="http://travelynx.de/">http://travelynx.de/&lt;/a>&lt;/td>
+ &lt;td>Travelynx ist ein eigener, unabhängiger Check-in Dienst.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="drittanbieter-projekte">Drittanbieter-Projekte&lt;/h2>
 &lt;h3 id="webseiten">Webseiten&lt;/h3>
 &lt;table>
  &lt;thead>
@@ -15,12 +30,6 @@ ebenfalls nur quelloffene Projekte zu verlinken.&lt;/p>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
- &lt;tr>
- &lt;td>Travelynx&lt;/td>
- &lt;td>&lt;a href="http://travelynx.de/">http://travelynx.de/&lt;/a>&lt;/td>
- &lt;td>öffentlich&lt;/td>
- &lt;td>Travelynx ist ein eigener, unabhängiger Check-in Dienst für Züge im Netz der Deutschen Bahn. Er bietet eine Synchronisierung von und zu Träwelling an.&lt;/td>
- &lt;/tr>
  &lt;tr>
  &lt;td>Aboard&lt;/td>
  &lt;td>&lt;a href="https://github.com/sunrisesdev/aboard">https://github.com/sunrisesdev/aboard&lt;/a>&lt;/td>
