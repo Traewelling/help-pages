@@ -1,5 +1,5 @@
 ---
-title: Liste von Drittanbieter-Projekten
+title: Projekte von Drittanbietern
 description:
 categories: [ "community" ]
 tags: [ "app", "mobile", "community" ]
@@ -8,21 +8,23 @@ date: 2023-05-06
 
 ---
 
-## Drittanbieter-Apps
+Träwelling bietet eine kostenfreie API an, über welche Drittanwendungen mit Träwelling interagieren können.
+Auf dieser Seite sammeln wir quelloffene Projekte, die entweder mit Träwelling interagieren oder gar eine Alternative zu
+Träwelling darstellen.
 
-Träwelling bietet eine kostenfreie API an, über welche Drittentwickler\*innen mit dem Dienst kommunizieren können.
-Um eine bessere Übersicht bieten zu können, welche Apps es derzeit gibt und was man damit machen kann, wurde diese Seite
-geschaffen!
+## Alternativprojekte
 
-Unser Projekt lebt davon, quelloffen zu sein und wir leben den Open Source Gedanken. Deshalb bitten wir euch, hier
-ebenfalls nur quelloffene Projekte zu verlinken.
+| Projekt   | Link                                         | Infos                                                    |
+|-----------|----------------------------------------------|----------------------------------------------------------|
+| Travelynx | [http://travelynx.de/](http://travelynx.de/) | Travelynx ist ein eigener, unabhängiger Check-in Dienst. |
+
+## Drittanbieter-Projekte
 
 ### Webseiten
 
-| Projekt   | Link                                                                           | Status     | Infos                                                                                                                                                  |
-|-----------|--------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Travelynx | [http://travelynx.de/](http://travelynx.de/)                                   | öffentlich | Travelynx ist ein eigener, unabhängiger Check-in Dienst für Züge im Netz der Deutschen Bahn. Er bietet eine Synchronisierung von und zu Träwelling an. |
-| Aboard    | [https://github.com/sunrisesdev/aboard](https://github.com/sunrisesdev/aboard) | öffentlich | Aboard ist ein alternativer Webclient für Träwelling, welcher sich auf mobile Bedienung fokussiert.                                                    |
+| Projekt | Link                                                                           | Status     | Infos                                                                                               |
+|---------|--------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------------------------------------|
+| Aboard  | [https://github.com/sunrisesdev/aboard](https://github.com/sunrisesdev/aboard) | öffentlich | Aboard ist ein alternativer Webclient für Träwelling, welcher sich auf mobile Bedienung fokussiert. |
 
 ### Apps
 

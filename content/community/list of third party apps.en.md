@@ -1,5 +1,5 @@
 ---
-title: List of third-party projects
+title: Projects by third parties
 description:
 categories: [ "community" ]
 tags: [ "app", "mobile", "community" ]
@@ -8,20 +8,23 @@ date: 2023-05-06
 
 ---
 
-## Third-party apps
+Träwelling offers a free API that allows third-party applications to interact with Träwelling.
+On this page we collect open source projects that either interact with Träwelling or even represent an alternative to
+Träwelling.
 
-Träwelling offers a free API that allows third-party developers to communicate with the service.
-To provide a better overview of what apps are currently available and what you can do with them, this page was created!
+## Alternative projects
 
-Our project lives from being open source, and we live the open source idea.
-Therefore, we ask you to link only open source projects here.
+| Projekt   | Link                                         | Infos                                                  |
+|-----------|----------------------------------------------|--------------------------------------------------------|
+| Travelynx | [http://travelynx.de/](http://travelynx.de/) | Travelynx is a separate, independent check-in service. |
+
+## Third-party projects
 
 ### Websites
 
-| Project   | Link                                                                           | Status | Infos                                                                                                               |
-|-----------|--------------------------------------------------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------|
-| Travelynx | [http://travelynx.de/](http://travelynx.de/)                                   | public | Travelynx is a separate, independent check-in service for trains. It offers synchronization to and from Träwelling. |
-| Aboard    | [https://github.com/sunrisesdev/aboard](https://github.com/sunrisesdev/aboard) | public | Aboard is an alternative web client for Träwelling, which focuses on mobile operation.                              |
+| Project | Link                                                                           | Status | Infos                                                                                  |
+|---------|--------------------------------------------------------------------------------|--------|----------------------------------------------------------------------------------------|
+| Aboard  | [https://github.com/sunrisesdev/aboard](https://github.com/sunrisesdev/aboard) | public | Aboard is an alternative web client for Träwelling, which focuses on mobile operation. |
 
 ### Apps
 
