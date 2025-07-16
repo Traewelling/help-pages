@@ -2,20 +2,11 @@
 title: "Timetable data"
 ---
 
-{{<notice note>}}
-**We changed the data source for the timetable data on 2025-04-11.
-From now on we obtain the data from [Transitous](https://transitous.org/).**
-The quality of the data differs from the previous data sources, so the user experience may vary.
-Please help us to improve Transitous and get involved in the community.
-You can find more information about Transitous further down this page.
-{{</ notice>}}
-
 {{<notice important>}}
 Only timetable data published under an open license is currently available.
 We are gradually working on activating more data sources.
 There will still be some incompleteness in the initial phase.
-You can see on this page which sources we have activated:
-[traewelling.de/debug/motis-sources](https://traewelling.de/debug/motis-sources)
+For more information about Licensing please visit: [licensing](/en/features/timetable/licensing)
 {{</ notice>}}
 
 For Träwelling, we currently use [Transitous](https://transitous.org/) as the only data source.

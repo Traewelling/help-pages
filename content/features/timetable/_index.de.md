@@ -2,22 +2,11 @@
 title: "Fahrplandaten"
 ---
 
-{{<notice note>}}
-**Wir haben am 11.04.2025 die Datenquelle für die Fahrplandaten gewechselt.
-Ab sofort beziehen wir die Daten von [Transitous](https://transitous.org/).**
-Die Qualität der Daten unterscheidet sich von den vorherigen Datenquellen, es kann also zu einem geänderten
-Nutzererlebnis kommen.
-Bitte hilf mit, Transitous zu verbessern und bring dich in die Community ein.
-Mehr Infos zu Transitous findest du weiter unten auf dieser Seite.
-
-{{</ notice>}}
-
 {{<notice important>}}
 Es stehen aktuell nur Fahrplandaten zur Verfügung, die unter einer offenen Lizenz veröffentlicht sind.
 Wir arbeiten nach und nach daran, mehr Datenquellen zu aktivieren.
 In der Anfangsphase werden noch einige Unvollständigkeiten auftreten.
-Du kannst auf dieser Seite sehen, was für Sourcen wir aktiviert haben:
-[traewelling.de/debug/motis-sources](https://traewelling.de/debug/motis-sources)
+Für weitere Informationen hierzu besuche bitte [Fahrplanlizenz](/features/timetable/licensing)
 {{</ notice>}}
 
 Bei Träwelling nutzen wir derzeit als einzige Datenquelle [Transitous](https://transitous.org/).
