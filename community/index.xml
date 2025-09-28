@@ -1,93 +1,93 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🤝 Community on Hilfe | Träwelling</title><link>https://help.traewelling.de/community/</link><description>Recent content in 🤝 Community on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><atom:link href="https://help.traewelling.de/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Projekte von Drittanbietern</title><link>https://help.traewelling.de/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/community/list-of-third-party-apps/</guid><description>&lt;p>Träwelling bietet eine kostenfreie API an, über welche Drittanwendungen mit Träwelling interagieren können.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🤝 Community on Hilfe | Träwelling</title><link>https://help.traewelling.de/community/</link><description>Recent content in 🤝 Community on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><atom:link href="https://help.traewelling.de/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Projekte von Drittanbietern</title><link>https://help.traewelling.de/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/community/list-of-third-party-apps/</guid><description>&lt;p&gt;Träwelling bietet eine kostenfreie API an, über welche Drittanwendungen mit Träwelling interagieren können.
 Auf dieser Seite sammeln wir quelloffene Projekte, die entweder mit Träwelling interagieren oder gar eine Alternative zu
-Träwelling darstellen.&lt;/p>
-&lt;h2 id="alternativprojekte">Alternativprojekte&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Projekt&lt;/th>
- &lt;th>Link&lt;/th>
- &lt;th>Infos&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Travelynx&lt;/td>
- &lt;td>&lt;a href="http://travelynx.de/">http://travelynx.de/&lt;/a>&lt;/td>
- &lt;td>Travelynx ist ein eigener, unabhängiger Check-in Dienst.&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="drittanbieter-projekte">Drittanbieter-Projekte&lt;/h2>
-&lt;h3 id="webseiten">Webseiten&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Projekt&lt;/th>
- &lt;th>Link&lt;/th>
- &lt;th>Status&lt;/th>
- &lt;th>Infos&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Aboard&lt;/td>
- &lt;td>&lt;a href="https://github.com/sunrisesdev/aboard">https://github.com/sunrisesdev/aboard&lt;/a>&lt;/td>
- &lt;td>öffentlich&lt;/td>
- &lt;td>Aboard ist ein alternativer Webclient für Träwelling, welcher sich auf mobile Bedienung fokussiert.&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h3 id="apps">Apps&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Projekt&lt;/th>
- &lt;th>Plattform&lt;/th>
- &lt;th>Link(s)&lt;/th>
- &lt;th>Status&lt;/th>
- &lt;th>Infos&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Träwelldroid&lt;/td>
- &lt;td>Android&lt;/td>
- &lt;td>&lt;a href="https://traewelldroid.de/">https://traewelldroid.de/&lt;/a> / &lt;a href="https://play.google.com/store/apps/details?id=de.hbch.traewelling">Google Play Store&lt;/a>&lt;/td>
- &lt;td>öffentlich&lt;/td>
- &lt;td>Träwelldroid ist eine Android-App, welche das Einchecken und Interagieren mit Träwelling nativ unter Android ermöglicht.&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h3 id="skripte-exporter-und-andere-tools">Skripte, Exporter und andere Tools&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Projekt&lt;/th>
- &lt;th>Link&lt;/th>
- &lt;th>Infos&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>traewelling-exporter&lt;/td>
- &lt;td>&lt;a href="https://github.com/NyCodeGHG/traewelling-exporter">https://github.com/NyCodeGHG/traewelling-exporter&lt;/a>&lt;/td>
- &lt;td>Prometheus Exporter für Fahrten&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>traewelling-telegram-notificationsPublic&lt;/td>
- &lt;td>&lt;a href="https://github.com/HerrLevin/traewelling-telegram-notifications">https://github.com/HerrLevin/traewelling-telegram-notifications&lt;/a>&lt;/td>
- &lt;td>No description, website, or topics provided.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>traewelling-dashboard-rss&lt;/td>
- &lt;td>&lt;a href="https://github.com/AdriDevelopsThings/traewelling-dashboard-rss">https://github.com/AdriDevelopsThings/traewelling-dashboard-rss&lt;/a>&lt;/td>
- &lt;td>Erstelle einen RSS Feed aus deinem Träwelling Dashboard&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>traewelling-widget&lt;/td>
- &lt;td>&lt;a href="https://github.com/tiuub/traewelling-widget">https://github.com/tiuub/traewelling-widget&lt;/a>&lt;/td>
- &lt;td>Ein iOS Widget für Träwelling&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+Träwelling darstellen.&lt;/p&gt;
+&lt;h2 id="alternativprojekte"&gt;Alternativprojekte&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Projekt&lt;/th&gt;
+ &lt;th&gt;Link&lt;/th&gt;
+ &lt;th&gt;Infos&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Travelynx&lt;/td&gt;
+ &lt;td&gt;&lt;a href="http://travelynx.de/"&gt;http://travelynx.de/&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Travelynx ist ein eigener, unabhängiger Check-in Dienst.&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="drittanbieter-projekte"&gt;Drittanbieter-Projekte&lt;/h2&gt;
+&lt;h3 id="webseiten"&gt;Webseiten&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Projekt&lt;/th&gt;
+ &lt;th&gt;Link&lt;/th&gt;
+ &lt;th&gt;Status&lt;/th&gt;
+ &lt;th&gt;Infos&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Aboard&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://github.com/sunrisesdev/aboard"&gt;https://github.com/sunrisesdev/aboard&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;öffentlich&lt;/td&gt;
+ &lt;td&gt;Aboard ist ein alternativer Webclient für Träwelling, welcher sich auf mobile Bedienung fokussiert.&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="apps"&gt;Apps&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Projekt&lt;/th&gt;
+ &lt;th&gt;Plattform&lt;/th&gt;
+ &lt;th&gt;Link(s)&lt;/th&gt;
+ &lt;th&gt;Status&lt;/th&gt;
+ &lt;th&gt;Infos&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Träwelldroid&lt;/td&gt;
+ &lt;td&gt;Android&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://traewelldroid.de/"&gt;https://traewelldroid.de/&lt;/a&gt; / &lt;a href="https://play.google.com/store/apps/details?id=de.hbch.traewelling"&gt;Google Play Store&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;öffentlich&lt;/td&gt;
+ &lt;td&gt;Träwelldroid ist eine Android-App, welche das Einchecken und Interagieren mit Träwelling nativ unter Android ermöglicht.&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="skripte-exporter-und-andere-tools"&gt;Skripte, Exporter und andere Tools&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Projekt&lt;/th&gt;
+ &lt;th&gt;Link&lt;/th&gt;
+ &lt;th&gt;Infos&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-exporter&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://github.com/NyCodeGHG/traewelling-exporter"&gt;https://github.com/NyCodeGHG/traewelling-exporter&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Prometheus Exporter für Fahrten&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-telegram-notificationsPublic&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://github.com/HerrLevin/traewelling-telegram-notifications"&gt;https://github.com/HerrLevin/traewelling-telegram-notifications&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;No description, website, or topics provided.&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-dashboard-rss&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://github.com/AdriDevelopsThings/traewelling-dashboard-rss"&gt;https://github.com/AdriDevelopsThings/traewelling-dashboard-rss&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Erstelle einen RSS Feed aus deinem Träwelling Dashboard&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-widget&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://github.com/tiuub/traewelling-widget"&gt;https://github.com/tiuub/traewelling-widget&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Ein iOS Widget für Träwelling&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;</description></item></channel></rss>
