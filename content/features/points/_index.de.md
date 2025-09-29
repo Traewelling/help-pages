@@ -30,7 +30,7 @@ Die Punkte setzen sich aus der Produktklasse und der Entfernung deiner Reise zus
 Die Entfernung wird auf die nächsten 10 km gerundet und dann durch 10 geteilt. Anschließend werden die Basispunkte
 addiert.
 Eine ICE-Reise von 143 km bringt dir also `10 + aufrunden(143/10) = 10 + 15 = 25` Punkte, für eine S-Bahn-Fahrt von 8 km
-gibt es `2 + aufrunden(8/10) = 2 + 1 = 3` Punkte.
+gibt es `3 + aufrunden(8/10) = 3 + 1 = 4` Punkte.
 
 - **Fernverkehr (ICE, IC, EC, ...)**: 10 Basispunkte
 - **Regionalexpress**: 6 Basispunkte
