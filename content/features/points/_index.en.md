@@ -29,16 +29,19 @@ The points are made up of the product class and the distance of your trip.
 
 The distance is rounded to the nearest 10 km and then divided by 10.
 The base points are then added together.
-So an ICE journey of 143 km earns you `10 + roundup(143/10) = 10 + 15 = 25` points, for an S-Bahn journey of 8 km
-you get `2 + roundup(8/10) = 2 + 1 = 3` points.
+So a journey with a national express train of 143 km earns you `10 + roundup(143/10) = 10 + 15 = 25` points, 
+for a suburban journey of 8 km you get `3 + roundup(8/10) = 3 + 1 = 4` points.
 
-- **Long-distance services (ICE, IC, EC, ...)**: 10 basis points
-- **Regional express**: 6 basis points
-- **Regional**: 5 basis points
-- **S-Bahn**: 3 basis points
-- **Bus**: 2 basis points
+Technically, the following categories are distinguished:
+
+- **Nationalexpress**: 10 basis points
+- **National**: 8 basis points
+- **Regionalexpress**: 8 basis points
+- **Regional**: 6 basis points
+- **Suburban**: 3 basis points
 - **Ferry**: 3 basis points
 - **Subway**: 2 basis points
+- **Bus**: 2 basis points
 - **Tram**: 2 basis points
 - **Taxi**: 1 basis point
 
