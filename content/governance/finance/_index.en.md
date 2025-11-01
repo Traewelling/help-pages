@@ -7,7 +7,7 @@ date: 2024-05-28
 The [Träwelling Team](/governance/team) pays all expenses out of private pocket.
 We do not accept donations and have no income.
 
-TL;DR: We pay about 16,56 € per month to run Träwelling.
+TL;DR: We pay about 20,37 € per month to run Träwelling.
 
 Träwelling itself runs on a server hosted by Netcup in Nuremberg, Germany.
 
@@ -19,6 +19,12 @@ Träwelling itself runs on a server hosted by Netcup in Nuremberg, Germany.
 - 480 GB SSD (RAID10)
 
 Costs: 13,59 € per month
+
+### Backups
+
+We store our backups in another data center at Hetzner.
+
+Costs: 3,81 € per month
 
 ### Monitoring
 
