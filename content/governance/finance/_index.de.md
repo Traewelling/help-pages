@@ -7,7 +7,7 @@ date: 2024-05-28
 Das [Träwelling Team](/governance/team) zahlt alle Ausgaben aus privater Tasche.
 Wir nehmen keine Spenden an und haben keine Einnahmen.
 
-TL;DR: Wir zahlen etwa 16,56 € pro Monat um Träwelling zu betreiben.
+TL;DR: Wir zahlen etwa 20,37 € pro Monat um Träwelling zu betreiben.
 
 Träwelling selbst läuft auf einem bei Netcup gehosteten Server in Nürnberg, Deutschland.
 
@@ -19,6 +19,11 @@ Träwelling selbst läuft auf einem bei Netcup gehosteten Server in Nürnberg, D
 - 480 GB SSD (RAID10)
 
 Kosten: 13,59 € pro Monat
+
+### Backups
+
+Unsere Backups haben wir in einem anderen Rechenzentrum bei Hetzner liegen.
+Kosten: 3,81 € / Monat
 
 ### Monitoring
 
