@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>False on Hilfe | Träwelling</title><link>https://help.traewelling.de/downloadbtn/false/</link><description>Recent content in False on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><lastBuildDate>Sat, 01 Nov 2025 17:12:27 +0100</lastBuildDate><atom:link href="https://help.traewelling.de/downloadbtn/false/index.xml" rel="self" type="application/rss+xml"/><item><title>💰 Finanzen</title><link>https://help.traewelling.de/governance/finance/</link><pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/governance/finance/</guid><description>&lt;p&gt;Das &lt;a href="https://help.traewelling.de/governance/team/"&gt;Träwelling Team&lt;/a&gt; zahlt alle Ausgaben aus privater Tasche.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DownloadBtn/False on Hilfe | Träwelling</title><link>https://help.traewelling.de/downloadbtn/false/</link><description>Recent content in DownloadBtn/False on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><lastBuildDate>Tue, 20 Jan 2026 19:26:19 +0100</lastBuildDate><atom:link href="https://help.traewelling.de/downloadbtn/false/index.xml" rel="self" type="application/rss+xml"/><item><title>💰 Finanzen</title><link>https://help.traewelling.de/governance/finance/</link><pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/governance/finance/</guid><description>&lt;p&gt;Das &lt;a href="https://help.traewelling.de/governance/team/"&gt;Träwelling Team&lt;/a&gt; zahlt alle Ausgaben aus privater Tasche.
 Wir nehmen keine Spenden an und haben keine Einnahmen.&lt;/p&gt;
 &lt;p&gt;TL;DR: Wir zahlen etwa 20,37 € pro Monat um Träwelling zu betreiben.&lt;/p&gt;
 &lt;p&gt;Träwelling selbst läuft auf einem bei Netcup gehosteten Server in Nürnberg, Deutschland.&lt;/p&gt;
@@ -131,6 +131,13 @@ Träwelling darstellen.&lt;/p&gt;
  &lt;td&gt;&lt;a href="https://traewelldroid.de/"&gt;https://traewelldroid.de/&lt;/a&gt; / &lt;a href="https://play.google.com/store/apps/details?id=de.hbch.traewelling"&gt;Google Play Store&lt;/a&gt;&lt;/td&gt;
  &lt;td&gt;öffentlich&lt;/td&gt;
  &lt;td&gt;Träwelldroid ist eine Android-App, welche das Einchecken und Interagieren mit Träwelling nativ unter Android ermöglicht.&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Träwelcross&lt;/td&gt;
+ &lt;td&gt;Android&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://traewelcross.de/"&gt;https://traewelcross.de/&lt;/a&gt; / &lt;a href="https://play.google.com/store/apps/details?id=de.traewelcross"&gt;Google Play Store&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;öffentlich&lt;/td&gt;
+ &lt;td&gt;Träwelcross ist eine Flutter-App, die das Interagieren &amp;amp; Benutzen von Träwelling in einer App ermöglicht. Akutell wird nur Android unterstützt.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;

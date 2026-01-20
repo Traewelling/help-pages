@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Community on Hilfe | Träwelling</title><link>https://help.traewelling.de/categories/community/</link><description>Recent content in Community on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><lastBuildDate>Tue, 03 Jun 2025 17:44:45 +0200</lastBuildDate><atom:link href="https://help.traewelling.de/categories/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Projekte von Drittanbietern</title><link>https://help.traewelling.de/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/community/list-of-third-party-apps/</guid><description>&lt;p&gt;Träwelling bietet eine kostenfreie API an, über welche Drittanwendungen mit Träwelling interagieren können.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Community on Hilfe | Träwelling</title><link>https://help.traewelling.de/categories/community/</link><description>Recent content in Community on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><lastBuildDate>Tue, 20 Jan 2026 19:26:19 +0100</lastBuildDate><atom:link href="https://help.traewelling.de/categories/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Projekte von Drittanbietern</title><link>https://help.traewelling.de/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/community/list-of-third-party-apps/</guid><description>&lt;p&gt;Träwelling bietet eine kostenfreie API an, über welche Drittanwendungen mit Träwelling interagieren können.
 Auf dieser Seite sammeln wir quelloffene Projekte, die entweder mit Träwelling interagieren oder gar eine Alternative zu
 Träwelling darstellen.&lt;/p&gt;
 &lt;h2 id="alternativprojekte"&gt;Alternativprojekte&lt;/h2&gt;
@@ -56,6 +56,13 @@ Träwelling darstellen.&lt;/p&gt;
  &lt;td&gt;&lt;a href="https://traewelldroid.de/"&gt;https://traewelldroid.de/&lt;/a&gt; / &lt;a href="https://play.google.com/store/apps/details?id=de.hbch.traewelling"&gt;Google Play Store&lt;/a&gt;&lt;/td&gt;
  &lt;td&gt;öffentlich&lt;/td&gt;
  &lt;td&gt;Träwelldroid ist eine Android-App, welche das Einchecken und Interagieren mit Träwelling nativ unter Android ermöglicht.&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Träwelcross&lt;/td&gt;
+ &lt;td&gt;Android&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://traewelcross.de/"&gt;https://traewelcross.de/&lt;/a&gt; / &lt;a href="https://play.google.com/store/apps/details?id=de.traewelcross"&gt;Google Play Store&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;öffentlich&lt;/td&gt;
+ &lt;td&gt;Träwelcross ist eine Flutter-App, die das Interagieren &amp;amp; Benutzen von Träwelling in einer App ermöglicht. Akutell wird nur Android unterstützt.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
