@@ -31,6 +31,7 @@ Träwelling darstellen.
 | Projekt      | Plattform | Link(s)                                                                                                                                         | Status     | Infos                                                                                                                    |
 |--------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------|
 | Träwelldroid | Android   | [https://traewelldroid.de/](https://traewelldroid.de/) / [Google Play Store](https://play.google.com/store/apps/details?id=de.hbch.traewelling) | öffentlich | Träwelldroid ist eine Android-App, welche das Einchecken und Interagieren mit Träwelling nativ unter Android ermöglicht. |
+| Träwelcross | Android  | [https://traewelcross.de/](https://traewelcross.de/) / [Google Play Store](https://play.google.com/store/apps/details?id=de.traewelcross) | öffentlich | Träwelcross ist eine Flutter-App, die das Interagieren & Benutzen von Träwelling in einer App ermöglicht. Akutell wird nur Android unterstützt. |
 
 ### Skripte, Exporter und andere Tools
 
