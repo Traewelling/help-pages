@@ -41,7 +41,11 @@ We currently support the following licenses:
 
 ### Help us
 If you notice that data from a transport company is missing, even though their license allows you to use it, you are welcome to help us.
-Simply create an [Issue](https://github.com/Traewelling/traewelling/issues) on GitHub and we will add the data source.
+To do this, simply create a [pull request](https://github.com/Traewelling/transitous-licenses) on GitHub with the license information and we can add the license without much effort.
+For more information, see the README file in the repository: [Readme](https://github.com/Traewelling/transitous-licenses/blob/main/README.md) .
+
+If this is too technical for you, you can also create an [issue](https://github.com/Traewelling/traewelling/issues) on GitHub and we can add the license for you.
+This process usually takes a little longer, as we have to check the information manually, but we are happy to help.
 
 We need the following information so that we can successfully integrate the license:
 
