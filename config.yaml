@@ -57,7 +57,7 @@ privacy:
   googleAnalytics:
     anonymizeIP: true
     respectDoNotTrack: true
-  twitter:
+  x:
     enableDNT: true
   vimeo:
     enableDNT: true
