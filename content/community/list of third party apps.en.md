@@ -41,3 +41,5 @@ Träwelling.
 | traewelling-telegram-notificationsPublic | [https://github.com/HerrLevin/traewelling-telegram-notifications](https://github.com/HerrLevin/traewelling-telegram-notifications) | No description, website, or topics provided.      |
 | traewelling-dashboard-rss                | [https://github.com/AdriDevelopsThings/traewelling-dashboard-rss](https://github.com/AdriDevelopsThings/traewelling-dashboard-rss) | Create a RSS feed from your traewelling dashboard |
 | traewelling-widget                       | [https://github.com/tiuub/traewelling-widget](https://github.com/tiuub/traewelling-widget)                                         | An iOS widget for Träwelling                      |
+| traewelling-pydantic | https://codeberg.org/lambda-crime/traewelling-pydantic | Traewelling Pydantic models for Python
+| traewelling-api | https://codeberg.org/lambda-crime/traewelling-api | A Python API wrapper for Traewelling
