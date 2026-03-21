@@ -96,5 +96,15 @@ Träwelling.&lt;/p&gt;
  &lt;td&gt;&lt;a href="https://github.com/tiuub/traewelling-widget"&gt;https://github.com/tiuub/traewelling-widget&lt;/a&gt;&lt;/td&gt;
  &lt;td&gt;An iOS widget for Träwelling&lt;/td&gt;
  &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-pydantic&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://codeberg.org/lambda-crime/traewelling-pydantic"&gt;https://codeberg.org/lambda-crime/traewelling-pydantic&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Traewelling Pydantic models for Python&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-api&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://codeberg.org/lambda-crime/traewelling-api"&gt;https://codeberg.org/lambda-crime/traewelling-api&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;A Python API wrapper for Traewelling&lt;/td&gt;
+ &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;</description></item></channel></rss>

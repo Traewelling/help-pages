@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Community on Help | Träwelling</title><link>https://help.traewelling.de/en/categories/community/</link><description>Recent content in Community on Help | Träwelling</description><generator>Hugo</generator><language>en-us</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://Träwelling)</copyright><lastBuildDate>Tue, 20 Jan 2026 19:26:19 +0100</lastBuildDate><atom:link href="https://help.traewelling.de/en/categories/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects by third parties</title><link>https://help.traewelling.de/en/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/community/list-of-third-party-apps/</guid><description>&lt;p&gt;Träwelling offers a free API that allows third-party applications to interact with Träwelling.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Community on Help | Träwelling</title><link>https://help.traewelling.de/en/categories/community/</link><description>Recent content in Community on Help | Träwelling</description><generator>Hugo</generator><language>en-us</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://Träwelling)</copyright><lastBuildDate>Sat, 21 Mar 2026 20:47:22 +0000</lastBuildDate><atom:link href="https://help.traewelling.de/en/categories/community/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects by third parties</title><link>https://help.traewelling.de/en/community/list-of-third-party-apps/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/en/community/list-of-third-party-apps/</guid><description>&lt;p&gt;Träwelling offers a free API that allows third-party applications to interact with Träwelling.
 On this page we collect open source projects that either interact with Träwelling or even represent an alternative to
 Träwelling.&lt;/p&gt;
 &lt;h2 id="alternative-projects"&gt;Alternative projects&lt;/h2&gt;
@@ -95,6 +95,16 @@ Träwelling.&lt;/p&gt;
  &lt;td&gt;traewelling-widget&lt;/td&gt;
  &lt;td&gt;&lt;a href="https://github.com/tiuub/traewelling-widget"&gt;https://github.com/tiuub/traewelling-widget&lt;/a&gt;&lt;/td&gt;
  &lt;td&gt;An iOS widget for Träwelling&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-pydantic&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://codeberg.org/lambda-crime/traewelling-pydantic"&gt;https://codeberg.org/lambda-crime/traewelling-pydantic&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Traewelling Pydantic models for Python&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-api&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://codeberg.org/lambda-crime/traewelling-api"&gt;https://codeberg.org/lambda-crime/traewelling-api&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;A Python API wrapper for Traewelling&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;</description></item></channel></rss>

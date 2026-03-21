@@ -96,5 +96,15 @@ Träwelling darstellen.&lt;/p&gt;
  &lt;td&gt;&lt;a href="https://github.com/tiuub/traewelling-widget"&gt;https://github.com/tiuub/traewelling-widget&lt;/a&gt;&lt;/td&gt;
  &lt;td&gt;Ein iOS Widget für Träwelling&lt;/td&gt;
  &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-pydantic&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://codeberg.org/lambda-crime/traewelling-pydantic"&gt;https://codeberg.org/lambda-crime/traewelling-pydantic&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Traewelling Pydantic modele für Python&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-api&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://codeberg.org/lambda-crime/traewelling-api"&gt;https://codeberg.org/lambda-crime/traewelling-api&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Ein Python API Wrapper für Traewelling&lt;/td&gt;
+ &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;</description></item></channel></rss>

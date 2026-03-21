@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>False on Hilfe | Träwelling</title><link>https://help.traewelling.de/downloadbtn/false/</link><description>Recent content in False on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><lastBuildDate>Fri, 20 Mar 2026 19:25:57 +0100</lastBuildDate><atom:link href="https://help.traewelling.de/downloadbtn/false/index.xml" rel="self" type="application/rss+xml"/><item><title>💰 Finanzen</title><link>https://help.traewelling.de/governance/finance/</link><pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/governance/finance/</guid><description>&lt;p&gt;Das &lt;a href="https://help.traewelling.de/governance/team/"&gt;Träwelling Team&lt;/a&gt; zahlt alle Ausgaben aus privater Tasche.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>False on Hilfe | Träwelling</title><link>https://help.traewelling.de/downloadbtn/false/</link><description>Recent content in False on Hilfe | Träwelling</description><generator>Hugo</generator><language>de-de</language><copyright>Copyright &amp;copy; 2024 [Träwelling](https://traewelling.de/)</copyright><lastBuildDate>Sat, 21 Mar 2026 20:47:22 +0000</lastBuildDate><atom:link href="https://help.traewelling.de/downloadbtn/false/index.xml" rel="self" type="application/rss+xml"/><item><title>💰 Finanzen</title><link>https://help.traewelling.de/governance/finance/</link><pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate><guid>https://help.traewelling.de/governance/finance/</guid><description>&lt;p&gt;Das &lt;a href="https://help.traewelling.de/governance/team/"&gt;Träwelling Team&lt;/a&gt; zahlt alle Ausgaben aus privater Tasche.
 Wir nehmen keine Spenden an und haben keine Einnahmen.&lt;/p&gt;
 &lt;p&gt;TL;DR: Wir zahlen etwa 22,88 € pro Monat um Träwelling zu betreiben.&lt;/p&gt;
 &lt;p&gt;Träwelling selbst läuft auf einem bei Netcup gehosteten Server in Nürnberg, Deutschland.&lt;/p&gt;
@@ -170,6 +170,16 @@ Träwelling darstellen.&lt;/p&gt;
  &lt;td&gt;traewelling-widget&lt;/td&gt;
  &lt;td&gt;&lt;a href="https://github.com/tiuub/traewelling-widget"&gt;https://github.com/tiuub/traewelling-widget&lt;/a&gt;&lt;/td&gt;
  &lt;td&gt;Ein iOS Widget für Träwelling&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-pydantic&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://codeberg.org/lambda-crime/traewelling-pydantic"&gt;https://codeberg.org/lambda-crime/traewelling-pydantic&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Traewelling Pydantic modele für Python&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;traewelling-api&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://codeberg.org/lambda-crime/traewelling-api"&gt;https://codeberg.org/lambda-crime/traewelling-api&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;Ein Python API Wrapper für Traewelling&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;</description></item></channel></rss>
