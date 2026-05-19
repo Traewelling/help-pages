@@ -21,7 +21,7 @@ Enter the name of the station where you want to get on or off.
 You will be shown suggestions that you can select.
 If you cannot find a stop, you can also enter the ID of the stop from Wikidata (see below).
 
-You can add as many stops as you like as intermediate stops.
+You can add as many intermediate stops as you like.
 An arrival and departure time is required.
 
 Enter the line you are using.
@@ -30,6 +30,8 @@ You can leave the ‘Number’ field blank.
 If your journey has an (internal) journey number, you can enter it here.
 
 In the ‘Category’ field, you must select the category of your means of transport.
+
+You can optionally add the operator of your journey.
 
 {{< figure src="filled-out.png" alt="Create trip manually" >}}
 
