@@ -22,15 +22,17 @@ Gib den Namen der Station ein, an der du ein- oder aussteigen möchtest.
 Es werden dir Vorschläge angezeigt, die du auswählen kannst.
 Wenn du eine Station nicht findest, kannst du auch die ID der Station aus Wikidata eingeben (siehe unten).
 
-Du kanns beliebig viele Stationen als Zwischenhalt hinzufügen.
+Du kannst beliebig viele Stationen als Zwischenhalt hinzufügen.
 Eine Ankunfts- und Abfahrtszeit ist notwendig.
 
 Trage die Linie ein, die du benutzt.
 
 Das Feld „Nummer“ kannst du frei lassen.
-Sollte deine Fahrt eine (interne) Fahrtennummer, kannst du diese hier eintragen.
+Sollte deine Fahrt eine (interne) Fahrtennummer besitzen, kannst du diese hier eintragen.
 
 Im Feld „Kategorie“ musst du die Kategorie deines Verkehrsmittels auswählen.
+
+Daneben kannst du optional noch den Betreiber deiner Fahrt auswählen.
 
 {{< figure src="filled-out.png" alt="Manuelle Reise erstellen" >}}
 
