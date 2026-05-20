@@ -5,9 +5,9 @@ type: docs
 draft: false
 ---
 
-[🐛 Report bug](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=bug%2CTo+Do&template=bug_report.md)
+[🐛 Report bug](https://github.com/Traewelling/traewelling/issues/new?template=bug-report-en.yml)
 |
-[➕ Request feature](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
+[➕ Request feature](https://github.com/Traewelling/traewelling/discussions/new?category=ideas-feature-requests)
 
 
 {{< faq "🚂 Why is my train not listed? " >}}
