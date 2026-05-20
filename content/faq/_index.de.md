@@ -5,9 +5,9 @@ type: docs
 draft: false
 ---
 
-[🐛 Fehler melden](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=bug%2CTo+Do&template=bug_report.md)
+[🐛 Fehler melden](https://github.com/Traewelling/traewelling/issues/new?template=bug-report-de.yml)
 |
-[➕ Funktion wünschen](https://github.com/Traewelling/traewelling/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
+[➕ Funktion wünschen](https://github.com/Traewelling/traewelling/discussions/new?category=ideas-feature-requests)
 
 {{< faq "🚂 Warum wird mein Zug nicht aufgelistet? " >}}
 Dazu haben wir auf der [Seite zu den Fahrplandaten](/features/timetable) genauere Infos.
