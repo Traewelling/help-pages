@@ -1,11 +1,16 @@
 ---
 title: "💰 Finanzen"
 downloadBtn: false
-date: 2024-05-28
+date: 2026-05-29
 ---
 
-Das [Träwelling Team](/governance/team) zahlt alle Ausgaben aus privater Tasche.
-Wir nehmen keine Spenden an und haben keine Einnahmen.
+Das [Träwelling Team](/governance/team) zahlte bisher alle Ausgaben aus privater Tasche. Seit der Vereinsgründung im Frühjahr 2026 haben wir die Möglichkeit, Spenden anzunehmen. Wenn du spenden möchtest, kannst du das unter [Traewelling.org](https://traewelling.org/support-us) gerne machen.
+
+Mittlerweile besteht auch die Möglichkeit, Träwelling als [Sponsor](https://github.com/sponsors/Traewelling) auf GitHub zu unterstützen.
+
+{{<notice important>}}
+Trotz dieser neuen, freiwilligen Unterstützungsmöglichkeiten bleiben wir dabei: Träwelling bleibt kostenlos. Jetzt und immer.
+{{</ notice>}}
 
 TL;DR: Wir zahlen etwa 22,88 € pro Monat um Träwelling zu betreiben.
 
