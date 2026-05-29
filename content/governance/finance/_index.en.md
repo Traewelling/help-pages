@@ -1,11 +1,16 @@
 ---
 title: "💰 Finance"
 downloadBtn: false
-date: 2024-05-28
+date: 2026-05-29
 ---
 
-The [Träwelling Team](/governance/team) pays all expenses out of private pocket.
-We do not accept donations and have no income.
+Until now, the [Träwelling Team](/governance/team) paid all expenses out of their own pockets. After our association was founded in spring 2026, accepting donations became possible. If you wish to donate, you are very welcome to do so at [Traewelling.org](https://traewelling.org/support-us).
+
+It is now also possible to support Träwelling as a [sponsor](https://github.com/sponsors/Traewelling) on GitHub.
+
+{{<notice important>}}
+Despite these new, voluntary support options, we stand by our word: Träwelling remains free of charge. Now and always.
+{{</ notice>}}
 
 TL;DR: We pay about 22,88 € per month to run Träwelling.
 
