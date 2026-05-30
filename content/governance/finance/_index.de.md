@@ -31,6 +31,7 @@ Wir möchten die Ressourcen vom Hostingserver gerne ausbauen, sobald es die rege
 ### Backups
 
 Unsere Backups haben wir in einem anderen Rechenzentrum bei Hetzner liegen.
+
 Kosten: 3,81 € / Monat
 
 ### Monitoring
