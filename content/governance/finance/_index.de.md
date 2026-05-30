@@ -23,6 +23,7 @@ Der andere Server dient aktuell als Verwaltungsserver.
 Dort läuft u.a.: Authentik (SSO), Zammad (Ticketsystem), Paperless (Vorstands-Vereins-Kram) und geplant auch unser Grafana.
 
 Kosten (Server 1): 16,10 € pro Monat
+
 Kosten (Server 2): 11,94 € pro Monat
 
 Wir möchten die Ressourcen vom Hostingserver gerne ausbauen, sobald es die regelmäßigen Finanzen des Vereins ermöglichen.

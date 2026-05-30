@@ -23,6 +23,7 @@ The other server currently serves as an administration server.
 Among other things, it runs: Authentik (SSO), Zammad (ticket system), Paperless (board/association matters), and our Grafana is also planned there.
 
 Costs (Server 1): 16,10 € per month
+
 Costs (Server 2): 11,94 € per month
 
 We would like to expand the resources of the hosting server as soon as the association's regular finances allow it.
