@@ -43,3 +43,4 @@ Träwelling darstellen.
 | traewelling-widget                       | [https://github.com/tiuub/traewelling-widget](https://github.com/tiuub/traewelling-widget)                                         | Ein iOS Widget für Träwelling                           |
 | traewelling-pydantic | https://codeberg.org/lambda-crime/traewelling-pydantic | Traewelling Pydantic modele für Python
 | traewelling-api | https://codeberg.org/lambda-crime/traewelling-api | Ein Python API Wrapper für Traewelling
+| Traewelling-Home-Assistant | [https://github.com/CHirch/Traewelling-Home-Assistant](https://github.com/CHirch/Traewelling-Home-Assistant)  | Eine Sammlung von Template-Sensoren und mehr für [Home Assistant](https://github.com/home-assistant)
