@@ -106,5 +106,10 @@ Träwelling darstellen.&lt;/p&gt;
 					&lt;td&gt;&lt;a href="https://codeberg.org/lambda-crime/traewelling-api"&gt;https://codeberg.org/lambda-crime/traewelling-api&lt;/a&gt;&lt;/td&gt;
 					&lt;td&gt;Ein Python API Wrapper für Traewelling&lt;/td&gt;
 			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Traewelling-Home-Assistant&lt;/td&gt;
+					&lt;td&gt;&lt;a href="https://github.com/CHirch/Traewelling-Home-Assistant"&gt;https://github.com/CHirch/Traewelling-Home-Assistant&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;Eine Sammlung von Template-Sensoren und mehr für &lt;a href="https://github.com/home-assistant"&gt;Home Assistant&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;</description></item></channel></rss>
