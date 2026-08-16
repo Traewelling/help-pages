@@ -20,7 +20,7 @@ Klicke darauf, um eine neue manuelle Reise zu erstellen.
 ## Manuelle Reise erstellen
 Gib den Namen der Station ein, an der du ein- oder aussteigen möchtest.
 Es werden dir Vorschläge angezeigt, die du auswählen kannst.
-Wenn du eine Station nicht findest, kannst du auch die ID der Station aus Wikidata eingeben (siehe unten).
+Wenn du eine Station nicht findest, kannst du auch die ID der Station aus [Wikidata](/features/manual-trips/wikidata) eingeben.
 
 Du kannst beliebig viele Stationen als Zwischenhalt hinzufügen.
 Eine Ankunfts- und Abfahrtszeit ist notwendig.
@@ -35,19 +35,3 @@ Im Feld „Kategorie“ musst du die Kategorie deines Verkehrsmittels auswählen
 Daneben kannst du optional noch den Betreiber deiner Fahrt auswählen.
 
 {{< figure src="filled-out.png" alt="Manuelle Reise erstellen" >}}
-
-## Neue Stationen hinzufügen (Wikidata Import)
-
-Bei der Haltestellensuche werden nur Haltestellen angezeigt, die entweder in unserer Datenbank vorhanden oder in unserem genutzten Backend für Fahrplandaten bekannt sind.
-Du kannst daher auch neue Stationen aus Wikidata importieren.
-Suche einfach die Station in Wikidata und kopiere die ID in das Suchfeld.
-
-{{< notice info >}}
-Das Import-Feature ist noch nicht fertig.
-Es können noch nicht alle Arten von Stationen importiert werden.
-Wenn nichts passiert, ist die Station nicht kompatibel.
-Wenn du einen Fehler findest, schreibe bitte im GitHub-Repo oder füge die Kategorie selbst über einen Pull-Request hinzu.
-{{</ notice >}}
-
-{{< figure src="form-wikidata.png" alt="Station von Wikidata importieren" >}}
-

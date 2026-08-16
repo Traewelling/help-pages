@@ -19,7 +19,7 @@ Click on it to create a new manual journey.
 
 Enter the name of the station where you want to get on or off.
 You will be shown suggestions that you can select.
-If you cannot find a stop, you can also enter the ID of the stop from Wikidata (see below).
+If you cannot find a stop, you can also enter the ID of the stop from [Wikidata](/features/manual-trips/wikidata).
 
 You can add as many intermediate stops as you like.
 An arrival and departure time is required.
@@ -34,19 +34,3 @@ In the ‘Category’ field, you must select the category of your means of trans
 You can optionally add the operator of your journey.
 
 {{< figure src="filled-out.png" alt="Create trip manually" >}}
-
-## Add new stations (Wikidata Import)
-
-The stop search only displays stops that either exist in our database or are known in our backend used for timetable data.
-You can therefore also import new stops from Wikidata.
-Simply search for the station in Wikidata and copy the ID into the search field.
-
-{{< notice info >}}
-The import feature is not yet ready.
-Not all types of stations can be imported yet.
-If nothing happens, the station is not compatible.
-If you find a bug, please write in the GitHub repo or add the category yourself via a pull request.
-{{</ notice >}}
-
-{{< figure src="form-wikidata.png" alt="Import station from Wikidata" >}}
-
