@@ -1,5 +1,6 @@
 ---
 title: "📜 Community-Richtlinien"
+weight: 60
 type: docs
 ---
 
@@ -11,7 +12,7 @@ gewährleisten.
 
 ### Durchsetzung
 
-[Wir](/governance/team) möchten so wenig wie möglich in die Community eingreifen.
+Wir möchten so wenig wie möglich in die Community eingreifen.
 Bitte achtet darauf, dass die Plattform ordnungsgemäß genutzt und die Richtlinien eingehalten werden.
 
 Sollten dennoch Maßnahmen notwendig sein, versuchen wir diese so wenig invasiv wie möglich zu gestalten.

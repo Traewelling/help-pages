@@ -105,7 +105,7 @@ params:
   brand:
     parent_org_name: Träwelling
     parent_org_url: https://traewelling.de/
-    parent_org_url_legal: https://traewelling.de/legal
+    parent_org_url_legal: https://traewelling.org/imprint
   footer:
     mainSite: https://traewelling.de/
     mainSiteName: Träwelling
@@ -142,16 +142,9 @@ Languages:
     params:
       banner:
         title: Womit können wir dir helfen?
-        subtitle: Auf dieser Seite findest du diverse Hilfe-Artikel. Solltest du darüber hinaus Hilfe benötigen, kontaktiere uns gerne auf Mastodon oder per Mail.
         bg_image: images/banner.png
         placeholder: Du hast eine Frage? Dann durchsuche diese Webseite!
 
-    # --- navigation menu ---
-    menu:
-      main:
-        - name: FAQ
-          weight: 10
-          url: faq
 
   en:
     languageName: en
@@ -162,13 +155,6 @@ Languages:
     params:
       banner:
         title: How can we help you?
-        subtitle: On this page you'l find various help articles. If you have further questions, please contact us on Mastodon or via e mail.
         bg_image: images/banner.png
         placeholder: Have a question? Search the site here.
 
-    # --- navigation menu ---
-    menu:
-      main:
-        - name: FAQ
-          weight: 10
-          url: faq

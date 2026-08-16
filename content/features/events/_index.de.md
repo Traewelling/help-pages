@@ -16,19 +16,20 @@ einreichen.
 Da wir nicht jedes Fest, jede Demonstration, jede Messe oder sonst was annehmen können und wollen, sollten die Events
 ein paar Kriterien erfüllen, damit wir sie bei Träwelling listen.
 Diese sind nicht 100%ig bindend.
-Das [Träwelling Team](/governance/team) behält sich vor im eigenen Ermessen zu entscheiden, ob Veranstaltungen
+Das Träwelling Team behält sich vor im eigenen Ermessen zu entscheiden, ob Veranstaltungen
 angenommen oder abgelehnt werden.
 Es gibt aber ein paar Pro- und Contra-Kriterien, welche die Entscheidung beeinflussen.
 
 #### Pro-Kriterien
 
-+ Bezug auf Eisenbahn, Busse oder andere öffentliche Verkehrsmittel
++ Bezug auf Eisenbahn, Busse oder andere öffentliche Verkehrsmittel (z.B. die letzte Fahrt des Metropolitan)
 + Kurze Veranstaltung
-+ Veranstaltung zur Förderung von Toleranz, Vielfalt, Klimaschutz und Umwelt
++ Veranstaltung zur Förderung von Toleranz, Vielfalt, Klimaschutz und Umwelt (z.B. Cologne Pride)
++ Treffen der Hacker- und Techszene (z.B. GPN)
 
 #### Contra-Kriterien
 
-- lokales Fest
+- lokales Fest (z.B. Weihnachtsmarkt oder Stadtfest)
 - Veranstaltungslänge > 3 Tage
 - Rechtes Gedankengut
 - Konzerte

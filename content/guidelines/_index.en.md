@@ -1,5 +1,6 @@
 ---
 title: "📜 Community Guidelines"
+weight: 60
 type: docs
 ---
 
@@ -10,7 +11,7 @@ The Träwelling community has become so large that it is necessary to establish 
 
 ### Enforcement
 
-[We](/governance/team) want to interfere with the community as little as possible.
+We want to interfere with the community as little as possible.
 Please make sure that the platform is used properly and that the guidelines are adhered to.
 
 Should measures still be necessary, we will try to make them as non-invasive as possible.

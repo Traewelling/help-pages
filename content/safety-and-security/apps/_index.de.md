@@ -40,7 +40,7 @@ empfohlene Variante.
 
 Wenn du sichergehen möchtest, dass Drittanwendungen keinen zugriff mehr auf deine Daten haben, kannst du den zugriff in
 deinen [Einstellungen](https://traewelling.de/settings) widerrufen.
-Klicke hierfür unter dem Punkt "API-Tokens" in der Zeile der zu entfernenden Anwendung auf den roten Button mit
+Klicke hierfür unter dem Punkt „API-Tokens“ in der Zeile der zu entfernenden Anwendung auf den roten Button mit
 Mülleimersymbol.
 
 Da du Anwendungen auf mehreren Geräten installieren kannst, kann es sein, dass diese auch mehrfach in den Einstellungen
@@ -50,7 +50,7 @@ Sobald diese Anwendung nicht mehr aufgelistet ist, hat sie definitiv keinen Zugr
 ![api-revoke-token.png](api-revoke-token.png)
 
 {{< notice important >}}
-Bitte beachte, dass Anwendungen, die über Benutzername und Passwort authentifiziert werden, als "Träwelling Personal
-Access Client" aufgeführt werden.
+Bitte beachte, dass Anwendungen, die über Benutzername und Passwort authentifiziert werden, als „Träwelling Personal
+Access Client“ aufgeführt werden.
 Du kannst Anwendungen, die diese Authentifizierungsmethode verwenden, nicht unterscheiden.
 {{< /notice >}}

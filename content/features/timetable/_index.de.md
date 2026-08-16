@@ -2,65 +2,39 @@
 title: "Fahrplandaten"
 ---
 
-{{<notice important>}}
-Es stehen aktuell nur Fahrplandaten zur Verfügung, die unter einer offenen Lizenz veröffentlicht sind.
-Wir arbeiten nach und nach daran, mehr Datenquellen zu aktivieren.
-In der Anfangsphase werden noch einige Unvollständigkeiten auftreten.
-Für weitere Informationen hierzu besuche bitte [Fahrplanlizenz](/features/timetable/licensing)
-{{</ notice>}}
+Unsere Fahrplandaten kommen von [Transitous](https://transitous.org/).
+Das ist ein Gemeinschaftsprojekt, das offen lizenzierte Fahrpläne von Verkehrsunternehmen aus vielen Ländern sammelt
+und über eine gemeinsame Schnittstelle bereitstellt.
+Von dort holen wir Haltestellen und Abfahrten.
+Angezeigt werden sie, sobald die Lizenz der zugehörigen Daten bekannt ist und uns die Nutzung erlaubt.
+Deshalb ist die Abdeckung nicht überall gleich gut.
 
-Bei Träwelling nutzen wir derzeit als einzige Datenquelle [Transitous](https://transitous.org/).
-Bis April 2025 wurden die Daten von Schnittstellen der Deutschen Bahn bezogen.
+### Warum fehlt meine Fahrt?
 
-Wenn du in eine Fahrt einchecken willst, die wir über Transitous nicht beziehen können, kannst du
-die [Fahrt auch manuell erstellen](/features/manual-trips).
+Dafür gibt es meistens einen dieser Gründe:
 
-### Warum die Migration zu Transitous?
+- **Der Fahrplan fehlt bei Transitous.** Was dort nicht ankommt, können auch wir nicht anzeigen. Nachschauen kannst du
+  unter [api.transitous.org](https://api.transitous.org).
+- **Die Lizenz der Daten ist noch ungeprüft.** Das bedeutet schlicht, dass sich noch niemand angeschaut hat, unter
+  welcher Lizenz das Verkehrsunternehmen seine Fahrplandaten veröffentlicht.
+- **Die Lizenz erlaubt uns die Nutzung nicht.** Dann dürfen wir die Fahrten nicht anzeigen.
 
-Bis Januar 2025 haben wir bei Träwelling auf Fahrplandaten über eine HAFAS-Schnittstelle der Deutschen Bahn zugegriffen.
-Diese wurde jedoch im Januar 2025 im Zuge der Abschaltung des DB Business Navigators endgültig deaktiviert.
-In der Folge war das Einchecken für fast eine Woche nicht mehr möglich.
+In beiden Lizenzfällen kannst du unter
+[traewelling.de/debug/motis-sources](https://traewelling.de/debug/motis-sources) nachsehen, welche Datenquellen wir
+mit welcher Lizenz nutzen.
 
-Wir haben daraufhin kurzfristig eine alternative Schnittstelle von bahn.de integriert, um die Funktionalität wiederherzustellen.
-Diese Schnittstelle war jedoch nicht für externe Projekte gedacht und ist entsprechend instabil.
-Im April 2025 erhielten wir plötzlich nur noch den Fehler „Access Denied“ - unsere Server konnten keine Fahrplandaten mehr abrufen.
+An manchen Stationen siehst du deshalb einen Hinweis, dass Abfahrten aufgrund unbekannter oder unpassender
+Lizenzbestimmungen ausgeblendet wurden.
+Dahinter steckt meistens kein Verbot, sondern nur eine Lizenz, die noch niemand geprüft und bei uns aktiviert hat.
+Wie du dabei helfen kannst, steht unter [Fahrplanlizenzierung](/features/timetable/licensing).
 
-Zwar ist dies nur eine Vermutung, aber wir gehen davon aus, dass unsere IP-Adresse von der Deutschen Bahn gesperrt wurde.
-Da wir auf eine stabile und offene Datenquelle angewiesen sind, war die Migration zu Transitous der nächste logische Schritt.
+### Was du tun kannst
 
-### Was ist Transitous?
+- Deine [Fahrt manuell erstellen](/features/manual-trips). Das geht immer, auch wenn die Verbindung bei uns fehlt.
+  Fehlt dabei eine Station, kannst du sie
+  [aus Wikidata importieren](/features/manual-trips#neue-stationen-hinzufügen-wikidata-import).
+- Uns bei einer fehlenden Lizenz helfen, siehe [Fahrplanlizenzierung](/features/timetable/licensing).
+- Bei Transitous einen Fahrplan ergänzen oder aktualisieren, siehe [Transitous](/features/timetable/transitous).
 
-Transitous ist ein kostenloser, offener Routingdienst für den öffentlichen Verkehr,
-der von einer Community betrieben wird und unabhängig von Verkehrsunternehmen agiert.
-Er ermöglicht internationale, grenzüberschreitende Routenplanung.
-
-### Was macht Transitous besonders?
-
-- **Grenzenlose Routenplanung**:
-  Transitous berücksichtigt Fahrplandaten aus verschiedenen Ländern und ermöglicht so eine nahtlose Planung über
-  Landesgrenzen hinweg.
-
-- **Offene Datenbasis**:
-  Transitous nutzt öffentlich verfügbare Fahrplandaten (z. B. GTFS und GTFS-RT) und setzt auf freie Softwarelösungen wie
-  die Routing-Engine MOTIS.
-
-- **Gemeinschaftsprojekt**:
-  Die Plattform wird von Freiwilligen gepflegt, die regionale Fahrplandaten zusammentragen und aktualisieren.
-
-### Wie nutzt Träwelling Transitous?
-
-Träwelling nutzt die vorhandenen Schnittstellen für Stations- und Abfahrtsdaten.
-Die Routingdaten werden nicht verwendet.
-
-Da Transitous ein Community-Projekt ist, welches die Daten von Verkehrsunternehmen aggregiert,
-kann es sein, dass nicht alle Haltestellen und Linien verfügbar sind.
-
-Du kannst helfen, indem du dich an der Community beteiligst und z. B. Feeds hinzufügst oder aktualisierst.
-
-Mehr Infos dazu findest du auf der Transitous-Webseite bzw. im GitHub-Repo.
-
-#### Weitere Informationen
-
-Webseite: [transitous.org](https://transitous.org/)
-
-Quellcode: [GitHub – public-transport/transitous](https://github.com/public-transport/transitous)
+Wie Transitous funktioniert, was Träwelling davon nutzt und warum wir 2025 dorthin gewechselt sind, steht unter
+[Transitous](/features/timetable/transitous).

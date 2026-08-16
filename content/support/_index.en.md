@@ -1,47 +1,33 @@
 ---
 title: "🆘 Support"
-description: "How to get help and where to report issues"
+weight: 20
 type: docs
 draft: false
 ---
 
-### 🚫 No software support via Social Media or Email (Exception: account-related issues)
-
-Please note:
-
-- **Bug reports** and **feature requests** via **social media (e.g. Mastodon)** are **not encouraged** – unfortunately, they tend to get lost there.
-- Please do **not** send **bug reports or feature requests** via **email** either.
-
-👉 Please use **GitHub exclusively** for these (see below).
-
-✅ **Account-related matters** (e.g. if you can no longer access your account) can be sent to us **by email** at:  
-📧 [support@traewelling.de](mailto:support@traewelling.de)
+- [I found a bug](/support/report-bugs)
+- [I found a security issue](/support/security)
+- [I would like a feature or have a question](/support/features-and-questions)
+- [I can no longer access my account](/support/account)
 
 ---
 
-### 🐞 Report a bug
+### Why GitHub and not social media or email?
 
-If you have found a bug, please create an issue on GitHub:  
-🔗 [Report Bugs](https://github.com/Traewelling/traewelling/issues)
+We are a small team of volunteers.
+On Mastodon and by email, bug reports and feature requests simply get lost among all the other messages, and nobody can
+tell later what became of a report.
+On GitHub, your request ends up exactly where we work through it, and you can check its status yourself at any time.
 
-Please describe as accurately as possible:
-
-- What you did
-- What you expected to happen
-- What happened instead
-- Ideally: How we can reproduce the error
+That is why we ask you to report bugs and feature requests there only.
+Account-related matters are the exception: those belong in an email to us, because they have no place in public.
 
 ---
 
-### 💡 Request a feature or ask a question
+### Thank you!
 
-Do you have an idea for a new feature? Or a question about Träwelling?
-
-➡️ Our GitHub discussions are the right place for you:  
-🔗 [Feature requests, questions & support](https://github.com/Traewelling/traewelling/discussions)
-
----
-
-### ❤️ Thank you!
+Träwelling is an open source project developed by volunteers in their spare time.
+Depending on the priority, fixing a bug can take months or even years, as we cannot guarantee that reports are handled
+quickly.
 
 Thank you for using Träwelling and for helping us to improve it.

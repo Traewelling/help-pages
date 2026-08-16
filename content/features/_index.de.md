@@ -1,7 +1,7 @@
 ---
 title: "📄 Features"
 type: docs
-weight: 30
+weight: 40
 date: 2023-07-06
 ---
 

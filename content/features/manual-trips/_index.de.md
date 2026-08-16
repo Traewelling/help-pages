@@ -3,7 +3,7 @@ title: "Reise manuell erstellen"
 ---
 
 {{< notice important >}}
-Bitte lege hier nur Fahrten an, deren Kategorie im Auswahlfeld "Kategorie" vorkommt.
+Bitte lege hier nur Fahrten an, deren Kategorie im Auswahlfeld „Kategorie“ vorkommt.
 Manuelle Reisen in privaten KfZ, Fahrrädern, zu Fuß, etc. sind nicht vorgesehen und werden von Zeit zu Zeit gelöscht.
 Mehr Infos in den [Community-Richtlinien](/guidelines/).
 {{</ notice >}}
@@ -12,7 +12,7 @@ Es kann passieren, dass Fahrten nicht über die von Träwelling genutzen Auskün
 Daher gibt es die Möglichkeit, manuell eine Reise zu erstellen.
 
 ## Der Weg zur manuellen Reise
-Am Ende der Abfahrtstafel findest du den Button "Fahrt erstellen".
+Am Ende der Abfahrtstafel findest du den Button „Fahrt erstellen“.
 Klicke darauf, um eine neue manuelle Reise zu erstellen.
 
 {{< figure src="button-de.png" alt="Manuelle Reise erstellen" >}}

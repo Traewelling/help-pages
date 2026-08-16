@@ -1,48 +1,35 @@
 ---
 title: "🆘 Support"
-description: "Wie du Hilfe bekommst und wo du Probleme melden kannst"
+weight: 20
 type: docs
 draft: false
 ---
 
-### 🚫 Kein Software-Support über Social Media oder E-Mail (Ausnahme: Account-Anliegen)
-
-Bitte beachte:
-
-- **Bugreports** und **Featurewünsche** sind über **Social Media (z. B. Mastodon)** **nicht erwünscht** - dort gehen sie
-  leider unter.
-- Auch per **E-Mail** bitte **keine Bugmeldungen oder Feature-Requests** schicken.
-
-👉 Nutze dafür **ausschließlich GitHub** (siehe unten).
-
-✅ **Accountbezogene Anliegen** (z. B. wenn du nicht mehr in deinen Account kommst) kannst du uns **per E-Mail** an  
-📧 [support@traewelling.de](mailto:support@traewelling.de) schicken.
+- [Ich habe einen Fehler gefunden](/support/report-bugs)
+- [Ich habe eine Sicherheitslücke gefunden](/support/security)
+- [Ich wünsche mir eine Funktion oder habe eine Frage](/support/features-and-questions)
+- [Ich komme nicht mehr in meinen Account](/support/account)
 
 ---
 
-### 🐞 Einen Fehler melden
+### Warum GitHub und nicht Social Media oder E-Mail?
 
-Wenn du einen Bug gefunden hast, erstelle bitte ein Issue auf GitHub:  
-🔗 [Bugs melden](https://github.com/Traewelling/traewelling/issues)
+Wir sind ein kleines Team von Freiwilligen.
+Auf Mastodon und per E-Mail gehen Bugreports und Featurewünsche zwischen allen anderen Nachrichten schlicht unter, und
+niemand kann später nachvollziehen, was aus einer Meldung geworden ist.
+Auf GitHub landet dein Anliegen dagegen genau dort, wo wir es abarbeiten, und du kannst den Stand jederzeit selbst
+nachlesen.
 
-Bitte beschreibe möglichst genau:
-
-- Was du gemacht hast
-- Was du erwartet hast
-- Was stattdessen passiert ist
-- Und am besten: Wie wir den Fehler nachstellen können
-
----
-
-### 💡 Feature wünschen oder Fragen stellen
-
-Du hast eine Idee für eine neue Funktion? Oder eine Frage zu Träwelling?
-
-➡️ Dann bist du in unserer GitHub-Diskussion richtig:  
-🔗 [Feature-Wünsche, Fragen & Support](https://github.com/Traewelling/traewelling/discussions)
+Deshalb bitten wir dich, Fehler und Featurewünsche ausschließlich dort zu melden.
+Accountbezogene Anliegen sind die Ausnahme: die gehören per E-Mail zu uns, weil sie nichts in der Öffentlichkeit zu
+suchen haben.
 
 ---
 
-### ❤️ Danke!
+### Danke!
+
+Träwelling ist ein Open-Source-Projekt, das von Freiwilligen in ihrer Freizeit entwickelt wird.
+Fehlerbehebungen können je nach Priorität mehrere Monate oder Jahre dauern, da wir keine Garantie für eine schnelle
+Bearbeitung geben können.
 
 Danke, dass du Träwelling nutzt und uns hilfst, es besser zu machen.

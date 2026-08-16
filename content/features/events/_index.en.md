@@ -12,18 +12,19 @@ If there is an event missing that you would like to check in to, you can also su
 
 Since we can't and don't want to accept every festival, demonstration, fair or whatever, events should meet a few criteria in order for us to list them on Träwelling.
 These are not 100% binding.
-The [Träwelling Team](/governance/team) reserves the right to use their own discretion to decide whether to accept or reject events.
+The Träwelling Team reserves the right to use their own discretion to decide whether to accept or reject events.
 However, there are a few pro and con criteria that influence the decision.
 
 #### Pro-Criteria
 
-+ Relation to rail, buses or other public transportation.
++ Relation to rail, buses or other public transportation (e.g. the last run of the Metropolitan)
 + Short event
-+ Event promoting tolerance, diversity, climate protection and the environment
++ Event promoting tolerance, diversity, climate protection and the environment (e.g. Cologne Pride)
++ Meetups of the hacker and tech community (e.g. GPN)
 
 #### Contra criteria
 
-- local festival
+- local festival (e.g. a Christmas market or town fair)
 - Event length > 3 days
 - Right-wing ideas
 - concerts

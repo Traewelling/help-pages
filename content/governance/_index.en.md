@@ -1,7 +1,7 @@
 ---
 title: "💼 Governance"
 type: docs
-weight: 30
+weight: 10
 date: 2026-05-29
 ---
 
