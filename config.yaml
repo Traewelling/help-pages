@@ -11,7 +11,7 @@
 baseURL: https://help.traewelling.de
 title: Hilfe | Träwelling
 theme: inventory
-languageCode: de-de
+locale: de-de
 defaultContentLanguage: de
 enableEmoji: true
 enableGitInfo: true
@@ -134,8 +134,8 @@ taxonomies:
 # --- multilingual settings ---
 Languages:
   de:
-    languageName: de
-    languageCode: de-de
+    label: de
+    locale: de-de
     weight: 1
     title: "Hilfe | Träwelling"
     copyright: "Copyright &copy; 2024  [Träwelling](https://traewelling.de/)"
@@ -147,8 +147,8 @@ Languages:
 
 
   en:
-    languageName: en
-    languageCode: en-us
+    label: en
+    locale: en-us
     weight: 2
     title: "Help | Träwelling"
     copyright: "Copyright &copy; 2024 [Träwelling](https://Träwelling)"

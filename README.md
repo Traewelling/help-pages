@@ -4,7 +4,7 @@ This repository uses [hugo](https://gohugo.io/) and a modified [unicef inventory
 
 To contribute you can simply edit the markdown files.
 
-If you want to preview your changes locally you need to install hugo.
+If you want to preview your changes locally you need to install hugo (0.158 or newer).
 You'll also need to fetch the theme's submodule: `git submodule update --init --recursive`
 
 After that you can just `hugo serve` and you'll see your preview locally.
