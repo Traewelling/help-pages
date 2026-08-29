@@ -1,0 +1,23 @@
+{
+  "name": "help-pages",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Träwelling Help Pages",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 8000",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs --port 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Traewelling/help-pages.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Traewelling/help-pages/issues"
+  },
+  "homepage": "https://github.com/Traewelling/help-pages#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
