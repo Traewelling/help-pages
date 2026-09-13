@@ -15,29 +15,36 @@ stays free of charge. Now and always.
 
 | Item                                                               | Provider | Costs per month |
 |--------------------------------------------------------------------|----------|----------------:|
-| [Hosting server (`maglev`)](#hosting-maglev)                       | netcup   |         16.10 € |
+| [Database server (`kursbuch`)](#database-kursbuch)                 | netcup   |         42.90 € |
+| [Web server (`maglev`)](#web-server-maglev)                        | netcup   |         13.89 € |
 | [Administration server (`leitstelle`)](#administration-leitstelle) | netcup   |         11.94 € |
 | [Monitoring server (`aufsicht`)](#monitoring-aufsicht)             | Hetzner  |          5.49 € |
 | [Backup storage](#backups)                                         | Hetzner  |          3.81 € |
 | [Domains](#domains) (prorated)                                     |          |          5.62 € |
-| **Total**                                                          |          |     **42.96 €** |
+| **Total**                                                          |          |     **83.65 €** |
 
 All amounts are gross amounts, i.e. including VAT.
 
 ### Servers
 
-We currently run three virtual servers: two at netcup and one at Hetzner.
+We currently run four virtual servers: three at netcup and one at Hetzner.
 
-#### Hosting (`maglev`)
+#### Database (`kursbuch`)
 
-This server is primarily responsible for hosting traewelling.de and traewelling.org.
+This server runs Träwelling's database.
 
 Provider: netcup
 
-Costs: 16.10 € per month
+Costs: 42.90 € per month
 
-We are currently scratching at the server's RAM limit, which also affects database performance. We would therefore like
-to expand the resources of the hosting server as soon as the association's regular finances allow it.
+#### Web server (`maglev`)
+
+This server takes care of hosting traewelling.de and traewelling.org as well as the workers that process tasks in the
+background.
+
+Provider: netcup
+
+Costs: 13.89 € per month
 
 #### Administration (`leitstelle`)
 

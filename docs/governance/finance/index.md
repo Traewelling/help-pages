@@ -14,29 +14,36 @@ laufenden Kosten. Diese Unterstützung ist und bleibt freiwillig: Träwelling bl
 
 | Position                                                   | Anbieter | Kosten pro Monat |
 |------------------------------------------------------------|----------|-----------------:|
-| [Hosting-Server (`maglev`)](#hosting-maglev)               | netcup   |          16,10 € |
+| [Datenbank-Server (`kursbuch`)](#datenbank-kursbuch)       | netcup   |          42,90 € |
+| [Webserver (`maglev`)](#webserver-maglev)                  | netcup   |          13,89 € |
 | [Verwaltungsserver (`leitstelle`)](#verwaltung-leitstelle) | netcup   |          11,94 € |
 | [Monitoring-Server (`aufsicht`)](#monitoring-aufsicht)     | Hetzner  |           5,49 € |
 | [Backup-Speicher](#backups)                                | Hetzner  |           3,81 € |
 | [Domains](#domains) (anteilig)                             |          |           5,62 € |
-| **Gesamt**                                                 |          |      **42,96 €** |
+| **Gesamt**                                                 |          |      **83,65 €** |
 
 Alle Beträge sind Bruttobeträge, also inklusive Mehrwertsteuer.
 
 ### Server
 
-Wir betreiben aktuell drei virtuelle Server: zwei bei netcup und einen bei Hetzner.
+Wir betreiben aktuell vier virtuelle Server: drei bei netcup und einen bei Hetzner.
 
-#### Hosting (`maglev`)
+#### Datenbank (`kursbuch`)
 
-Dieser Server kümmert sich primär um das Hosting von traewelling.de und traewelling.org.
+Auf diesem Server läuft die Datenbank von Träwelling.
 
 Anbieter: netcup
 
-Kosten: 16,10 € pro Monat
+Kosten: 42,90 € pro Monat
 
-Aktuell kratzen wir ziemlich an der RAM-Grenze. Darunter leidet auch die Performance der Datenbank. Wir möchten die
-Ressourcen vom Hostingserver deshalb gerne ausbauen, sobald es die regelmäßigen Finanzen des Vereins ermöglichen.
+#### Webserver (`maglev`)
+
+Dieser Server kümmert sich um das Hosting von traewelling.de und traewelling.org sowie um die Worker, die im Hintergrund
+Aufgaben abarbeiten.
+
+Anbieter: netcup
+
+Kosten: 13,89 € pro Monat
 
 #### Verwaltung (`leitstelle`)
 
