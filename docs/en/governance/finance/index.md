@@ -15,13 +15,13 @@ stays free of charge. Now and always.
 
 | Item                                                               | Provider | Costs per month |
 |--------------------------------------------------------------------|----------|----------------:|
-| [Database server (`kursbuch`)](#database-kursbuch)                 | netcup   |         42.90 € |
+| [Database server (`kursbuch`)](#database-kursbuch)                 | netcup   |         37.29 € |
 | [Web server (`maglev`)](#web-server-maglev)                        | netcup   |         13.89 € |
 | [Administration server (`leitstelle`)](#administration-leitstelle) | netcup   |         11.94 € |
 | [Monitoring server (`aufsicht`)](#monitoring-aufsicht)             | Hetzner  |          5.49 € |
 | [Backup storage](#backups)                                         | Hetzner  |          3.81 € |
 | [Domains](#domains) (prorated)                                     |          |          5.62 € |
-| **Total**                                                          |          |     **83.65 €** |
+| **Total**                                                          |          |     **78.04 €** |
 
 All amounts are gross amounts, i.e. including VAT.
 
@@ -35,7 +35,7 @@ This server runs Träwelling's database.
 
 Provider: netcup
 
-Costs: 42.90 € per month
+Costs: 37.29 € per month
 
 #### Web server (`maglev`)
 

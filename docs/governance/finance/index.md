@@ -14,13 +14,13 @@ laufenden Kosten. Diese Unterstützung ist und bleibt freiwillig: Träwelling bl
 
 | Position                                                   | Anbieter | Kosten pro Monat |
 |------------------------------------------------------------|----------|-----------------:|
-| [Datenbank-Server (`kursbuch`)](#datenbank-kursbuch)       | netcup   |          42,90 € |
+| [Datenbank-Server (`kursbuch`)](#datenbank-kursbuch)       | netcup   |          37,29 € |
 | [Webserver (`maglev`)](#webserver-maglev)                  | netcup   |          13,89 € |
 | [Verwaltungsserver (`leitstelle`)](#verwaltung-leitstelle) | netcup   |          11,94 € |
 | [Monitoring-Server (`aufsicht`)](#monitoring-aufsicht)     | Hetzner  |           5,49 € |
 | [Backup-Speicher](#backups)                                | Hetzner  |           3,81 € |
 | [Domains](#domains) (anteilig)                             |          |           5,62 € |
-| **Gesamt**                                                 |          |      **83,65 €** |
+| **Gesamt**                                                 |          |      **78,04 €** |
 
 Alle Beträge sind Bruttobeträge, also inklusive Mehrwertsteuer.
 
@@ -34,7 +34,7 @@ Auf diesem Server läuft die Datenbank von Träwelling.
 
 Anbieter: netcup
 
-Kosten: 42,90 € pro Monat
+Kosten: 37,29 € pro Monat
 
 #### Webserver (`maglev`)
 
