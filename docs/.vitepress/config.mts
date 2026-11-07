@@ -35,6 +35,7 @@ function deSidebar() {
           collapsed: false,
           items: [
             { text: "Stationen aus Wikidata importieren", link: "/features/manual-trips/wikidata/" },
+            { text: "Betreiber hinzufügen", link: "/features/manual-trips/operators/" },
           ],
         },
         { text: "Fahrtverlauf (Karte)", link: "/features/map/" },
@@ -107,6 +108,7 @@ function enSidebar() {
           collapsed: false,
           items: [
             { text: "Importing stations from Wikidata", link: "/en/features/manual-trips/wikidata/" },
+            { text: "Adding operators", link: "/en/features/manual-trips/operators/" },
           ],
         },
         { text: "Map", link: "/en/features/map/" },

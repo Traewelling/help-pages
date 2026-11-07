@@ -32,5 +32,6 @@ If your journey has an (internal) journey number, you can enter it here.
 In the ‘Category’ field, you must select the category of your means of transport.
 
 You can optionally add the operator of your journey.
+If it is missing from the list, you can [add it](operators/index.md).
 
 ![Create trip manually](/features/manual-trips/filled-out.png)
