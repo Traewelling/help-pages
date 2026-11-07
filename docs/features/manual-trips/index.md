@@ -33,5 +33,6 @@ Sollte deine Fahrt eine (interne) Fahrtennummer besitzen, kannst du diese hier e
 Im Feld „Kategorie“ musst du die Kategorie deines Verkehrsmittels auswählen.
 
 Daneben kannst du optional noch den Betreiber deiner Fahrt auswählen.
+Fehlt er in der Liste, kannst du ihn [hinzufügen](operators/index.md).
 
 ![Manuelle Reise erstellen](/features/manual-trips/filled-out.png)
