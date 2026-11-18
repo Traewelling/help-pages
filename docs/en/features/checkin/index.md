@@ -14,6 +14,6 @@ Those are the basics. However, Träwelling also lets you configure your check-in
 Before you finally check in, you can:
 - set the visibility of your status (Who is allowed to see this check-in?)
 - specify the purpose of your journey (Are you travelling privately or commuting to work?)
-- link an event (more about [events](events/index.md) )
+- link an event (more about [events](events/index.md))
 - add friends or colleagues who are travelling with you
 - add so-called tags. Tags are small pieces of additional information, such as your travel class, the vehicle number, or your role during the journey. You can also create your own tags.
