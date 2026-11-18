@@ -14,6 +14,6 @@ Das waren die Basics. Träwelling ermöglicht es dir aber je nach Bedarf, deinen
 Bevor du final eincheckst, kannst du:
 - die Sichtbarkeit deines Status festlegen (Wer darf diesen Check-in sehen?)
 - den Zweck deiner Reise angeben (Fährst du privat oder pendelst du zur Arbeit?)
-- eine Veranstaltung verlinken (mehr über [Veranstaltungen](events/index.md) )
+- eine Veranstaltung verlinken (mehr über [Veranstaltungen](events/index.md))
 - mitreisende Freunde oder Kollegen angeben
 - sog. Tags hinzufügen. Tags sind kleine Zusatzinformationen wie z. B. deine Reiseklasse, die Fahrzeugnummer oder deine Funktion während der Fahrt. Du kannst auch eigene Tags vergeben.
