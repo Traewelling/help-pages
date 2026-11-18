@@ -28,6 +28,7 @@ function deSidebar() {
       link: "/features/",
       collapsed: false,
       items: [
+        { text: "Einchecken", link: "/features/checkin/" },
         { text: "Veranstaltungen", link: "/features/events/" },
         {
           text: "Reise manuell erstellen",
@@ -101,6 +102,7 @@ function enSidebar() {
       link: "/en/features/",
       collapsed: false,
       items: [
+        { text: "Check in", link: "/en/features/checkin/" },
         { text: "Events", link: "/en/features/events/" },
         {
           text: "Create trip manually",
